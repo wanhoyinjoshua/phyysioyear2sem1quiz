@@ -155,15 +155,15 @@ var questioncorrectwronglist =[];
    }
    ,
    {
-    "question":"Deep aching across the SIJ can be an early sign for:",
+    "question":"The highest prevalence of LBP involves",
     "choice":
     [
-        "Spinal stenosis",
-        "Spondylolysis",
-        "Ankylosing Spondylitis",
-        "Rheumatoid arthritis"
+        "All ages",
+        "childrena and adolecsents",
+        "adults  ",
+        "older people"
     ],
-    "answer":"3",
+    "answer":"2",
     "explanation":"6"
    }
  ]
