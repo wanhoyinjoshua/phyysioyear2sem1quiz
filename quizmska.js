@@ -155,17 +155,607 @@ var questioncorrectwronglist =[];
    }
    ,
    {
-    "question":"The highest prevalence of LBP involves",
+    "question":"Most people recover from an episode of LBP within 6 weeks, but about 1/3 will present with persistent symptoms.",
     "choice":
     [
-        "All ages",
-        "childrena and adolecsents",
-        "adults  ",
-        "older people"
-    ],
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Clinical course is the course of the disease without any clinical intervention.",
+    "choice":
+    [
+        "truee",
+        "false",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"About 50% of patients will present a recurrent episode of LBP in the first year.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Prognostic factors are factors associated with outcome of LBP.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Older age, symptoms of depression, catastophising thoughts are all weaker predictors of worst prognosis for LBP.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Characteristics of LBP in adults vs older adults inlcude:",
+    "choice":
+    [
+        "Same prevalence in both populations, LBP in older people linked to more serious pathologies (i.e., spinal stenosis), but similar prognosis.",
+        "Prevalence higher in adults, sames causes of LBP and same prognosis.",
+        "Prevalence higher in adults, but LBP in older linked to more serious pathologies (i.e., spinal stenosis) and worst prognosis.",
+        "Prevalence higher in older adults, same causes of LBP, but worst prognosis."
+    ]
+    ,
     "answer":"2",
     "explanation":"6"
    }
+   ,
+   {
+    "question":"Treatment using manual therapy will target primarily what impairment?",
+    "choice":
+    [
+        "Joint function",
+        "Biomechanical function",
+        "Muscle function",
+        "Motor control"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The correct therapist contact point for PA central and unilateral PAIVMs are, respectively:",
+    "choice":
+    [
+        "Pisiform and thumbs tip",
+        "Pisiform and thumbs pad",
+        "Ulnar border (between pisiform and hook of hamate) and thumbs tip",
+        "Thumbs tip and ulnar border (between pisiform and hook of hamate)"
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"During manual therapy using PAIVMs and PPIVMs (assessment and treatment), it is important to observe:",
+    "choice":
+    [
+        "The position of the therapist",
+        "The amount of force applied",
+        "all",
+        "direction of force applied"
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"You are performing PAIVM central PA grade III treatment on L4 on a patient that was non-irritable, but presented 7/10 pain on PAIVM assessment for that segment (central L4). You have just started the first set and plan to sustain oscillations for 45 seconds. The patient complains that is painful, what should you do?",
+    "choice":
+    [
+        "Reduce the amount of force (move to a grade II instead)",
+        "Explain that is normal to have some pain at the beginning, but the pain should reduce as you progress into the set",
+        "Move the treatment to the segment above or below, which were less painful on assessment",
+        "Stop the treatment immediately"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"You are performing a PAIVM unilateral PA grade III treatment on Left L4 for (plan for 3 sets of 45 seconds). You reassess AMT after the first set and noted no change in movement range or pain intensity. What should you do?",
+    "choice":
+    [
+        "Perform 1 set using a grade IV, reassess AMT again, perform another 2 sets if found to be effective, and assess AMT again at the end of treatment",
+        "Continue with grade III for the following 2 sets as the technique needs some time to have an effect on range or pain - would continue to monitor the patient and assess AMT again at the end of treatment",
+        "Change to a grade IV for the following 2 sets, while you continue to monitor the patient, and assess AMT again at the end of treatment",
+        "The patient clearly does not respond to manual therapy and there is no point in continuing with this technique"
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The passive accessory intervetebral movement (PAIVM) assessment of patients with irritable LBP should be completed using GRADES I-II only.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"PAIVMs are a very common assessment and treatment technique, safe to use in all patients that complain of LBP.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"PAIVMS are contraindicated in people that have a NRC (positive neuro exam), people with severe osteoporosis in the spine, and people that present a red flag (i.e., suspected fracture, infection, inflammation)."
+   }
+   ,
+   {
+    "question":"AMT should be reassessed following both PAIVM and PPIVM assessment.",
+    "choice":
+    [
+        "truee",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"If a pars defect is suspected on a patient with unrelenting low back pain, the following referral for imaging would be appropriate",
+    "choice":
+    [
+        "MRI with and without contrast ",
+        "Radiographs A-P, Lateral & Oblique views ",
+        "Nuclear bone scan ",
+        "Radiographs A-P view only "
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Your patient has a painful lumbar radiculopathy with failure of 6 weeks of nonsurgical care. Clinical deterioration of neurological signs prompts the appropriate referral for what type of imaging.",
+    "choice":
+    [
+        "Ultrasound",
+        "Radiographs A-P, Lateral & Oblique views , CT ",
+        "  PET scan ",
+        "MRI "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"A 12-year-old ‘husky’ boy presents with traumatic right knee pain that increases with activity and decreases with rest and clinical exam reveals antalgic gait with an essentially normal knee exam. You should immediately think…",
+    "choice":
+    [
+        " Ankle instability ",
+        "Osgood’s Schlater disease ",
+        "All of the above ",
+        "Slipped-Capital Femoral Epiphysis "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"A 58-year-old female presents with complaints of right knee pain after she slipped and fell while getting out of the bathtub yesterday. Her clinical exam reveals point-tenderness on the patella and head of fibula. She cannot ambulate more than 4-steps and cannot actively flex her knee past 40 degrees. You decide to",
+    "choice":
+    [
+        "Continue your evaluation and test her strength ",
+        "Refer her to her family physician ",
+        "Educate her to rest, ice, compress and elevate her lower extremity for two-more days",
+        "Refer her for radiography to rule-out a fracture "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The Ottawa Ankle Rules consist of",
+    "choice":
+    [
+        "  Pain in malleolar zone ",
+        "Unable to bear weight for 4-steps immediately after injury and during exam ",
+        "Bony tenderness in posterior half of distal tibia or fibular or tip of medial or lateral malleolus",
+        "All of the above "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"You suspect and wish to rule-out a scaphoid fracture in a patient that sustained a fall on an outstretched hand 10 hours ago. You would expect the following exam findings",
+    "choice":
+    [
+        "Difficulty walking in your clinic ",
+        "No pain or swelling around the wrist and only mild reductions in active thumb range of motion ",
+        "Positive phalens maneuver, numbness and tingling in an median nerve distribution, positive Tinel’s sign over the carpal tunnel ",
+        "Snuff box tenderness, pain with longitudinal compression of the carpal-metacarpal joint of the thumb, tenderness on the scaphoid tubercle "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"In a patient with suspected spine trauma, the criteria for determination of whether imaging for the cervical spine is indicated and the recommended modality are based upon the",
+    "choice":
+    [
+        "the National Emergency X-Ray Utilization Study Low Risk Rule (NEXUS-LRR)  ",
+        "Chicago C-spine rules  ",
+        "Sydney MSK thought leaders  ",
+        "Canadian C-Spine rules and nexus lrr "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"What would you do after confirming you patient has a postiive neurological signs?",
+    "choice":
+    [
+        "Treat the patient and closely monitor the progression of the condition",
+        "Refer the patient to have an imaging and confirm what is causing the NRC ",
+        "Advice the patient to stay at home on bed rest until the symptoms go away",
+        "Refer the patient immediately to their GP "
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Radiculopathy is defined by pain,",
+    "choice":
+    [
+        "yes",
+        "flase",
+        "/",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"It is defined by objective neurological signs."
+   }
+   ,
+   {
+    "question":"Urgent refer the patient with ALBP and leg dominant pain, where there is progressive loss of neurological function, to hospital.",
+    "choice":
+    [
+        "true ",
+        "false",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Which of the following is/are the presentation fo the radicular pain?",
+    "choice":
+    [
+        "electric , shocking  ",
+        "burung  ",
+        "lacininating ",
+        "all "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Which of the following are the pathologies of radiculopathy?",
+    "choice":
+    [
+        " ischemia  ",
+        "ischemia, compression ",
+        "compression, inflammation ",
+        "inflammation, compression, ischemia "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Which of the following is incorrect?",
+    "choice":
+    [
+        "MNeurological exams are compulsory for all LBP. ",
+        "Neurological exams are required when pain referred from the lumbar spine past the buttock",
+        "Neurological exams are required if there is an altered sensation in the lower limb.",
+        "Neurological exams are required when pain is in a dermatomal distribution. "
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"People with low back pain present a delayed activation of the deep muscles (i.e., TrA and multifidus), which is believed to contribute to:",
+    "choice":
+    [
+        "Poor control of the diaphragm and pelvic floor muscles  ",
+        "Increased instability in the spine/pelvis  ",
+        "Increased stiffness in the spine/pelvis  ",
+        "chronicity of back pain  "
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The usual presentation of people with lumbo-pelvic motor control impairments include:",
+    "choice":
+    [
+        "Ongoing (persistent) LBP  ",
+        "All the above are correct ",
+        "PAIVMs and PPIVMs do not reproduce symptoms ",
+        "Poor movement control during AMTs "
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Guidelines recommend that imaging people with NSLBP is only considered when:",
+    "choice":
+    [
+        "Neurological examination and neural tension tests are positive ",
+        "Results of the imaging test is likely to change or direct treatment ",
+        "Red flags are present ",
+        "A and C are correct  "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Guidelines recommend the following interventions for people with LBP",
+    "choice":
+    [
+        "Advice to stay active, exercise and traction ",
+        "Reassure patient of favourable diagnosis, interdisciplinary therapy and electrotherapy ",
+        "Advice to avoid bed rest, manual therapy and NSAIDs ",
+        "Advice of early return to work, motor control and Paracetamol "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Early supervised exercise is usually unnecessary for people with acute NSLBP and low risk of chronicity",
+    "choice":
+    [
+        "true ",
+        "false",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Advice to people with NSLBP and NRC are virtually the same",
+    "choice":
+    [
+        "true ",
+        "false",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"Patients with NRC receive a slightly different advice as their pain mechanism and behaviour is different from NSLBP"
+   }
+   ,
+   {
+    "question":"A patient with NSLBP should use the pain intensity as a guide to dictate how much activity they perform.",
+    "choice":
+    [
+        "true ",
+        "false",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"All patients with NSLBP should be advised to keep active, explain that pain is expected but they should aim to increase active time every day till is back to normal"
+   }
+   ,
+   {
+    "question":"internal validity depends on ",
+    "choice":
+    [
+        "the theoretical conceptualization of the indepedent and dependt variables",
+        "how to applied the findings in the clinical practice ",
+        "how appropraite were the statistical procedures for analysing data  ",
+        "how well the study was conducted "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Clinical diagnosis is a diagnosis based on the identification of the underlying mechanism of the disease, condition or dysfunction. ",
+    "choice":
+    [
+        "true ",
+        "false",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"An evidence-based approach to diagnosis should not be based on: ",
+    "choice":
+    [
+        "the most updated evidence ",
+        "Imaging reports ",
+        "patient values  ",
+        " clinical expertise "
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"A test result that is positive in a person who does not have the disease or condition of interest",
+    "choice":
+    [
+        "false negative ",
+        "true postivve ",
+        "false positive ",
+        " true negative "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The positive likelihood ratio is ",
+    "choice":
+    [
+        "a ratio that indicates how much the odds of a disease are increased if a diangostic test is negative. ",
+        "a ratio that indicates how much the odds of a disease are decreased if a diangostic test is positive. ",
+        "a ratio that indicates how much the odds of a disease are increased if a diangostic test is positive. ",
+        "a ratio that indicates how much the odds of a disease are decreased if a diangostic test is negative. "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"An ideal questionnaire should has/have",
+    "choice":
+    [
+        "high validity ",
+        "high reliability  ",
+        "both ",
+        "/ "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"The weakest form of validity is ",
+    "choice":
+    [
+        "content validity ",
+        "construct validity ",
+        "criterion-related validity  ",
+        "face validity "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Are you going to rule in or rule out a physical examination with97% sensitivity,  97% specificity and negative findings?",
+    "choice":
+    [
+        "rule out ",
+        "rule in ",
+        "/ ",
+        "/"
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"If the  pre-test probability of a  physical diagnostic test with  a likelihood ratio of 1 increases, the post-test reliability will",
+    "choice":
+    [
+        "decerease",
+        "not change ",
+        "increase",
+        "/"
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   
  ]
 
 
