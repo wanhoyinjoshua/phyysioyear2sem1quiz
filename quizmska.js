@@ -755,6 +755,133 @@ var questioncorrectwronglist =[];
     "answer":"2",
     "explanation":"6"
    }
+   ,
+   {
+    "question":"Risk factors for groin pain include:",
+    "choice":
+    [
+        "Changes in training load ",
+        "CV fitness  ",
+        "Hip ROM, PHx of groin pain  ",
+        " All of the above "
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"In groin pain, the most commonly involved adductor muscle is:",
+    "choice":
+    [
+        "Adductor magnus ",
+        "Adductor longus ",
+        "Adductor brevis ",
+        "Gracilis "
+    ]
+    ,
+    "answer":"1",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Red flag conditions not to be missed when diagnosing groin pain include:",
+    "choice":
+    [
+        "Inguinal Hernia ",
+        "ASIS hypothysitis ",
+        "Perthes ",
+        "Lumbar spine referred pain "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   },
+   {
+    "question":"Diagnostic criteria for iliopsoas related groin pain include:",
+    "choice":
+    [
+        "Pain on resisted adduction testing ",
+        "Tenderness of the pubic symphysis ",
+        "Pain with abdominal resistance ",
+        "Pain on resisted hip flexion"
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Guidelines for managing hip OA should include:",
+    "choice":
+    [
+        "Exercise and weight management ",
+        "Exercise and pain management with opioids ",
+        "Weight management and aquatic therapy ",
+        "TENS and stem cell therapy "
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Which statement regarding hip fractures is INCORRECT::",
+    "choice":
+    [
+        "Patients present with present with a shortened and externally rotated leg on affected side ",
+        "10% die within 30 days ",
+        "Most people can return to their preliving arrangements",
+        "20% die within 1 year "
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"If the  pre-test probability of a  physical diagnostic test with  a likelihood ratio of 1 increases, the post-test reliability will",
+    "choice":
+    [
+        "decerease",
+        "not change ",
+        "increase",
+        "/"
+    ]
+    ,
+    "answer":"2",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Strategies to manage the loads acting on the hip joint can include the following:",
+    "choice":
+    [
+        "Supportive footwear",
+        "Increase the moment arm between the COM and the hip joint ",
+        "Limping by loading more to the unaffected side ",
+        "Reduce the moment arm between the COM and the hip joint centre"
+    ]
+    ,
+    "answer":"3",
+    "explanation":"6"
+   }
+   ,
+   {
+    "question":"Hip labral injuries typically:",
+    "choice":
+    [
+        "Are aggravated by positions of combinations of flexion/IR/adduction",
+        "Have clear mechanisms of injury ",
+        "Complain of acute pain over the anterior groin ",
+        "Do not experience any clicking with hip movements "
+    ]
+    ,
+    "answer":"0",
+    "explanation":"6"
+   }
+  
+   
    
  ]
 
