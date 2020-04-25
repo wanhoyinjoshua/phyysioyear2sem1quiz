@@ -880,7 +880,158 @@ var questioncorrectwronglist =[];
     "answer":"0",
     "explanation":"6"
    }
-  
+   ,
+   {
+    "question":"What are the risk factors for groin pain",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"rapid changes in training load , past hstory of groin injury , muscle length , strength imbalance , loss of hip range of motion"
+   }
+   ,
+   {
+    "question":"What is the dianostioc process of groin pain ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"step one , localize and listen to history , step 2 paplpate and recreate symptoms , step 3 , alleviate and investigate "
+   }
+  ,
+  {
+    "question":"Give me the origin of groin pain  ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"muscle tendon unit , stress fracture , pubic or abdominal , nerve entrapment , red flag "
+   }
+   ,
+   {
+    "question":"statistics of hip fracture  ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"less than 50n percent goes back to pre living condition , 5 percent has a surgery , one in ten will die in thirty days , one in five will die within a year  "
+   }
+   ,
+   {
+    "question":"classify fermoral neck fracture for me   ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"five types of fracture : 4 classifications : undisplaced/incomplete , complete without displacement , complete with partial displacement , complete with full displacement   "
+   }
+   ,
+   {
+    "question":"How many types of hip fractures are there?  ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"three , femorla neck , intertrochenteric fracture (excellent healing potential, better blood supply ), subtrochenteric fracture(always orif, intramedullary nail) "
+   }
+   ,
+   {
+    "question":"How do you manage a hip joint fracture ? ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"breathing exercise right after , chest exercises , circulation exercises , static quads and gluts exercise , weight bearing within 24 hrs  "
+   }
+   ,
+   {
+    "question":"What is the common clincial characterisitics of a labral injury ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"take years to diagnose , diffuse anterior or grion pain , frequently undiagnosed for a long time , clicking is the most consistnet symptom , can also cause insability , 22 percent of athelets , and 55 percent of atheletes with mechnical hip pain ha s it , qudrant test !, go hand in hand with impingement "
+   }
+   ,
+   {
+    "question":"Please describe in detail what the q angle is ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"explain the difference between the timing of swelling between acl and meniscus ,  ",
+    "choice":
+    [
+        "",
+        "",
+        "",
+        ""
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+
+   
    
    
  ]

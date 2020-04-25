@@ -13,7 +13,7 @@ var questioncorrectwronglist =[];
 var questionbank = 
 [
   {
-      "question":"1.	Define the primary goals of endurance training in performance terms and in terms of RPE",
+      "question":"give me the definitions of manual handling ",
       "choice":[
       "",
       "",
@@ -21,12 +21,12 @@ var questionbank =
       ""
     ],
       "answer":"0",
-      "explanation":" to increase the power an individual can maintain ... ... across the spectrum of exercise intensities  . Increase duration to maintain a certain poower until farigue , maintain a certain power with lower rpe , increase power a person can maintain for a certain duration until fatigue .<br> metabolic outcomes : increase insulin sensitivity , anti inflammotory effects"
+      "explanation":"activity require the use of force exerted by a person to lift , lower , opush , pull , carry or otherwise move something else . "
 
   }
   ,
   {
-   "question":"List synmoms for the term endurance ",
+   "question":"What is model law ? and what is the model work health safety act andhow does it do  its job ",
            "choice":[
             "",
             "",
@@ -34,12 +34,12 @@ var questionbank =
             ""
            ],
    "answer":"0",
-   "explanation":"exercise capacity , fitness ,aerobic fitness , cardiorepsiraotry fitness , we can get increase in exercise capapsity with no increase in vo2 max "
+   "explanation":"to secure the health and safety of workers and workplaces : by asking duty holders and employees to minimie risk , providing a fair and effective representation , consultation and cooperation , encourage provision of advice , education and training. securing complaince with the act .  "
 
   }
   ,
   {
-   "question":"Define the mode of endurance training in terms of the amount of muscle mass involved in exercise, and list examples of specific training modes suitable for endurance training, and give instances performance tests relevant to each example.",
+   "question":"are there different regulator in veery state (whs ) , whats the one called in NSW , ",
    "choice":
    [
     "",
@@ -48,12 +48,12 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"Mode : dynamic exercise with both legs simultanously or both arms ( moderate to large pervent of total bofy muscle mass, exam peril : single muscle group endurance training, very efective in tha muscle , increase in muscle oxidative capacity but little central adaptations, vo2 incease  training modes : level walking ( 6min )incine (balke test  duration )legecycling(40kmcycle trial time )rowing (2kn erogo time trial ) running ( 5kn ,10 42 kn time ) "
+   "explanation":"Safework nsw  "
 
   }
   ,
   {
-   "question":"Briefly describe how RPE may be used to assess the effectiveness of an endurance training program",
+   "question":"please describe the role of Safework nsw , ",
    "choice":
    [
     "",
@@ -62,11 +62,11 @@ var questionbank =
     ""
    ],
    "answer":"0" ,
-   "explanation":"to test whether a perso cna go longer , if the person can maintain a cerrtain power output for longer period of time , why not always use gold standards ? clncial index might not always correlate to performanc "
+   "explanation":"employers and businness have legal obligations under work health and safety laws related to , mnaging harzards and risks , due diigence . duty of care , duty to concult , register of injuries , injuries at work , return to work program "
   }
   ,
   {
-   "question":"List the primary variables that combine to determine endurance training dosage",
+   "question":"What are the safety responsibilities of an employee ?",
    "choice":
    [
     "",
@@ -75,11 +75,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"intensity , duration and frequeency "
+   "explanation":"must take resaonable care fo themselves and not do anything that would affect health and safety ofothers , follow any resaonble health and safety instructions from employer , (work safely , follow instructions , ask if not sure how to safely perform , use ppr , report injuries and unhealthy situations "
   }
   ,
   {
-   "question":"Define the terms absolute intensity and relative intensity and give examples of specific measures of relative intensity",
+   "question":"How to make sure someone can work safely ?",
    "choice":
    [
     "",
@@ -88,11 +88,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"Absoluteintensity (= absolute power)Relativeintensity (relative to the person’s ‘fitness’)( perent of vo2 max , hr mac rpe"
+   "explanation":"shown to use any equipment that you will be operating , given personal protective equipment and shown how to wear it properly , shon around the workplace , entry exit points  fitst aid areas , know emergency evacuation proceduresa , and shown the emergency evacuation points , introduced to ummediate supervisor , health and safety representative (HSR), know safety policies , and procedures , in place , how to report problems or injuries ,know everyones role in the workplace "
   }
   ,
   {
-   "question":"Name and describe the three different dosage training formats that are effective in increasing endurance.",
+   "question":"factsheet in nsw ??at health level , at hosptial level ?",
    "choice":
    [
     "",
@@ -105,7 +105,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Briefly explain why any endurance training program that uses high-intensity training must be a form of interval training",
+   "question":"Why is it important to practice safe manual handling ",
    "choice":
    [
     "",
@@ -114,11 +114,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"get enough total exercise duration to get sufficient stimulus for training adaptation , repeat high-intensity exercise bouts with rest intervals"
+   "explanation":"no of workers is the gretest , 12 percent of the workforce is injured , fal,ls , biggest nechanism of injury , hit by objects , sound pressure , mental stress, indrect cost , time off work , wont return to work "
   }
   ,
   {
-   "question":"Understand the importance of pre-exercise screening",
+   "question":"What is the top cause of injuty in the healthcare industry ? ",
    "choice":
    [
     "",
@@ -127,11 +127,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"safety:find those who at risk of cardiovascular problmes or other comorbidities during exercise .<br> Performane : dtermine patient goals , identify risk factors that can be tracked/changed by execise <br>psychological :rapport, awareness of mental health, estav=blish social support network around patient .   "
+   "explanation":"lifting people or moving beds and trolleys , slips and falls in high traffic areas , your mental stress, occupational violence and aggeession"
   }
   ,
   {
-   "question":"Understand what factors increase the risk of cardiovascular disease and CV-related complications",
+   "question":"What is a code balck ",
    "choice":
    [
     "",
@@ -140,11 +140,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"age , family hostory , prediabetesrisk increase as intensity of exercise increase , smoking , hypertension , low fitness, obesity"
+   "explanation":"secutity id called in the ed , similar to what a fall is to a patient , cideblack hjappens to the staff , the worst possible threat to the staff , ice and intoxication of alcohol , cognitive impairment , age care ward "
   }
   ,
   {
-   "question":"Correctly identify a patients cardiovascular risk status and identify the appropriate course of action when proceeding to exercise testing and prescription",
+   "question":"claims , serious claims ",
    "choice":
    [
     "",
@@ -157,7 +157,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Understand how to correctly and accurately determine resting heart rate and blood pressure using standard protocols",
+   "question":"safe work month october ",
    "choice":
    [
     "",
@@ -171,7 +171,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Be able to determine cardiac risk level based on the findings of a resting haemodynamic assessment",
+   "question":"workplace msk disorders , how ? which one is the most comon ?",
    "choice":
    [
     "",
@@ -181,11 +181,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"if bpm > 100(non regular ) , afib (uncontrolled arthmias ) , premature beats >5/minute <br>high level av block , conduction problem<br> rate abnormality (60 to 100)<50 except athletes >100 tachycardia  "
+   "explanation":"acute , repetitve , conseqqurnce of a mh injury may extend beyond the individual , psychological , the back , neck , shoulder and upper limb , prevalanxee of lbop of nurses , 71 percent compared with 37 percent in usa  "
   }
   ,
   {
-   "question":"3.Understand how to implement and interpret the current screening models and algorithms",
+   "question":"Sats of injuries in physiotherapists in queensland ",
    "choice":
    [
     "",
@@ -195,11 +195,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"currnetly active patients are encouranged to continue exercising , regardless of disease status , <br> medical clearence is only recommneded for sedentary patients with known symtomatic cv pulmonary , metabolic disease , <br> all patients encouraged to profress towards vigrous intensity exercise , as there i sknwon dose respone <br>australian model knwo cv metabolic disease requirwes clearance but can be from allied health , vigrous nt directly recommended , additional risk factors can be considered ."
+   "explanation":"91 percent of physio reported at least one workplace msk injury duing their career , 48 percent is lower back pain even thumb, neck and upper back as well . 18 percent has left because of the msk pain , higher oprevalnace of injury is commonly seen in the younger age group , becuase they dont ask for help , no experience , sports physio 3 times more thumb pain ,thumb ossteoarthtitis , privayte is wrist  pedirtrics is knee  "
   }
   ,
   {
-   "question":"When should we refer to a doctor ?",
+   "question":"What are some of the job related risk factors for physiotherpahy",
    "choice":
    [
     "",
@@ -209,11 +209,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"uncontrolled asthma with exercise , uncontrolled dibtese complications , hypohyperglycemia , neuropahty , retinopathy ,renal disease , .. "
+   "explanation":"lifting , trasfer , adopt unusual positions , unanticipated movement by patient , reprtitve nature "
   }
   ,
   {
-   "question":"wHAT is orthostatic blood pressure ",
+   "question":"principles that underpin safe manual handling ",
    "choice":
    [
     "",
@@ -223,11 +223,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"measure pressure in supine , then 10 moin of rest , then measure sys , if sys increase, hr increase , nrmal , if not normal , no increase in sys and may fall "
+   "explanation":"minmizr the liffting andlowering force , avoid need for bending , reduce pshing pulling holding , size and surfacr characteristics , stabiloity m and weight of object , vertical , horizontaal ovments involeved , workplace klayout , work postures   "
   }
   ,
   {
-   "question":"  Explain, in general terms, how the power – duration to fatigue relationship is assessed, and sketch the relationship for a typical person (approximate shape). State approximately the duration someone can maintain i) peak power and ii) power at VO2max",
+   "question":"How to have risk management ?",
    "choice":
    [
     "",
@@ -237,11 +237,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"set a power output , go to exusationn , measure time of that , repeat at diffferent intensity .maintain vo2 max for 2 to 4 min until fatigue , max power can only last for 5 seconds ( vo2 max is 400 w pw=eak 600 w"
+   "explanation":"first steop , risk identification to look for risk factors , determine the level of risk for each risk factor , aim the evaluate ( mehtods of storage ) ( light weight is wasit heigh , heavy is floor)  elmite reduce ,, evaluare the process , "
   }
   ,
   {
-   "question":"Compared to a typical young sedentary person, sketch the power – duration relationships for i) an endurance training person and ii) an person with a low endurance capacity (approximate shape only – X and Y axis should be approximately correct)",
+   "question":"what is a safe manual habdling checklist ? work environment ? individual factor ?",
    "choice":
    [
     "",
@@ -255,7 +255,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Sketch how the power – duration changes with endurance training",
+   "question":"how to manual handle people , us ethe risk management model . ",
    "choice":
    [
     "",
@@ -265,11 +265,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"6"
+   "explanation":"(any measures you can do to mitigate that risk ?) you have to think , wwhat is the task , what are the risk to this being a successful manamor , have i been properlyh trained , what harm do they pose to client , how can i eliminate or control each risk factor , was the process successful ? what would i repeat or do diffeently in the future  , eeven if you knwo the eqipmnt , you need to knwwo the specifics "
   }
   ,
   {
-   "question":"Define the terms homeostasis and homeostat, and list a number of physiological variables (minimum of 5) that are essential to maintain with normal range.",
+   "question":"give me the model to identify risk ",
    "choice":
    [
     "",
@@ -279,11 +279,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"two components : feedforward , feedback , oc coc , heat , ph , sosmolarity  "
+   "explanation":"working environment, task , load(patient uncooperative , lack insight , muscke spasms, tonicity , hydro theraphybwet , working environmen uneven floor , reduced lighting  ) , individual capability () , "
   }
   ,
   {
-   "question":"Explain the term feedback in terms of homeostasis",
+   "question":"be able to perform and describe the task of lying to sitting ,explain the procedure ,   ",
    "choice":
    [
     "",
@@ -293,11 +293,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"two type feedback and feedfrward "
+   "explanation":"(makee sure foot control is in close vicinity )(get the patient to help as much as possible ) position the patient side lying to the bed , and with knees bent , elevate the bed to about 45 degrees , hang the patients legs over the side of the bed , one hand on patients hip and another hand on patients shoulder  "
   }
   ,
   {
-   "question":"Explain i) how muscle threatens whole body homeostasis (list a minimum of 5 variable) and ii) match up these variable with the  homeostats that manage these variable during exercise. In overview terms define the phrase: the exercise response",
+   "question":"be able to assist the patient to sit to stand ...",
    "choice":
    [
     "",
@@ -307,11 +307,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"it grabs o2 , glucose , ffa , adn dump co2 h heat , also major threat to decrease map( hypoia , hypercapnia , acidosis , hyperthermia ,hypoglycemia ) "
+   "explanation":"when i say rock , you rock forward , hen i say stand ,you are going to stand up ,,   "
   }
   ,
   {
-   "question":" Define the terms pulmonary circulation and systemic circulation. Be able to sketch a simplified version of the cardiovascular system (CVS), and on that diagram be able to identify the left and right hearts (and name the chambers and specific valves), lungs, aorta, arteries, capillary beds, veins, and interstitial spaces between alveolus and pulmonary capillary, and between muscle capillary and muscle cell.",
+   "question":"explaining lying to wheelchair ",
    "choice":
    [
     "",
@@ -321,11 +321,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":""
+   "explanation":"(raise bed a bit slightly before standing up , foot footplates off the wheel chair  ) ask patient to sit for 2 minutes before moving them so that patient doesnt feel dizzy . with their feet on the ground explain procedure to patient , move the wheelchaor as close as you can to the patient , make sure the bed is locked , the chair is locked , ut ont he trasfer belt , say wheni say rock , roxk yourself back and forth and when i say stand , stand up for me , thn ask the patient to put their hand on the handle before sitting ddown  "
   }
   ,
   {
-   "question":"List and briefly describe the steps in involved in i) O2 transport and ii) O2 consumption – including coupling to muscle power output",
+   "question":"should we adjust the manueir according to the tallest person or the shortest person ",
    "choice":
    [
     "",
@@ -335,11 +335,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"ventilation :physical air flows transpoerrts o2 from atmosphere to alveolus , difusion of o2 down the conc gra to pulmonary capilary , then unde rhigh po2 binds to hb , blood transport o2 to capillary , low po2 , unbind , diffusion down conc to msucke cell , consumed by pxsphso accetp low enery e and h to form h20 , lower muscle po2 "
+   "explanation":"shortest  "
   }
   ,
   {
-    "question":"Wt is muscke atp turnover ",
+    "question":"How to use walking belts (pelican belts)?",
     "choice":
     [
      "",
@@ -349,11 +349,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"exercise power dribes adp and drives oxs phsos "
+    "explanation":"not there to lift , but to control ,overhead bars , bed rails(no two bed rails can be used simulatanouesly ) ... "
    }
    ,
   {
-   "question":"Define the terms METS and VO2 , and all associated definitions",
+   "question":"side board whenn",
    "choice":
    [
     "",
@@ -363,11 +363,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"Mets(per min) , one measure of energy expenditure , 1 met = energy expenditure at rest ( 3.5ml o2 kg j/min) Vo2 (best measure of enerygy expenditurethe rate fo oxygen consumption during ox phos , defined as co x( diff in conc) , ususally limited by CO "
+   "explanation":"when the transfer is pern=manant , "
   }
   ,
   {
-   "question":"Be able to convert workload or VO2to energy expenditure",
+   "question":"What is slide sheet ",
    "choice":
    [
     "",
@@ -377,11 +377,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"1 w = 1 j /s , 1 l /min vo2 = 21 kj /min"
+   "explanation":"help transfer , "
   }
   ,
   {
-   "question":"Understand the relationships between workload, heart rate and VO2 and how they can be used to estimate or predict capacity",
+   "question":"What is mechanical aids and what ius the criteria of a good mechanical aid ",
    "choice":
    [
     "",
@@ -391,11 +391,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"vo2 work rate and vow power is a linear relation , also has a non linear part .  "
+   "explanation":"standing aid , alings(full sling , ) , hover mats , hover jack(very expensive ) reduce the no of ppl handling , be aeasyu to operate , be capable of lifting the load saly , be capable of being used in the intended location , be in sound condition and properly maintained ,"
   }
   ,
   {
-   "question":"Understand the assumptions and limitations of estimating or predicting VO2 based on workload ",
+   "question":"bariatric patient ",
    "choice":
    [
     "",
@@ -405,11 +405,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"Assumptions for estimation : estimation of vo2 max during max eff exer , : requires a single bout of maximal exercse > 6-8 min , progressive intensity >30s to stabalize metobolic orocess , peak hr +-10bpm , criteria for maximal effort .<br> assumptions for esttimaion and predicting from submaximal . requires three submaximal , convert work rate to esimate vo2 , predict vo2 max from hr and vo2 (linear), limitations : try to predict internal using external , not always perfect age disease , individual varbaility , relies omn predicted hr max and perfect response hr to exercise . "
+   "explanation":"bariatric is an internationally accepted term applied to patients whose weight exceeds recommended body mass index , and where bnody size restricts mobility , health or access to avaliable services or eqipment .(over 120kg)(250kg)super batriactric  "
   }
   ,
   {
-   "question":" Calculate estimated or predicted VO2 using validated equations, and be able to convert between absolute and relative values of VO2",
+   "question":"explain what is hazardous manual task and describe some of them ",
    "choice":
    [
     "",
@@ -419,11 +419,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"speed is interms of m /min , vo2 os relative per kg per min  "
+   "explanation":"patient transfer , repositioing in a wider bariatric bed , managing heavy limbs , take blood pressure during iv cannualtion , moving patient forward during chest observation , managing adipose tissueb ,  "
   }
   ,
   {
-   "question":"Understand the relative advantages and disadvantages or modality selection for the assessment of aerobic fitness, and how it could be applied in different setting and with different population groups",
+   "question":"innovatuve to engage the population is  the purpose of a health campagin , ",
    "choice":
    [
     "",
@@ -437,7 +437,7 @@ var questionbank =
   }
   ,
   {
-    "question":"Explain how increased rate of crossbridge cycling causes increased muscle VO2. (Assuming adequate supply of O2 and adequate carbohydrate and fat storage)",
+    "question":"What is the leading cause of death in australia ?",
     "choice":
     [
      "",
@@ -447,11 +447,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Increasine in cross bridge cycling leads to sonumption of atp , causes increase in adp , an increase in rate of oxphos , increase in consumption of o2"
+    "explanation":"number one is coronary heart disease(male and female) ,lung is second in male , stroke is third in male , dementia is second in female , stroke is third in female   "
    }
   ,
   {
-    "question":"Define the term: PO2, PaO2, PvO2",
+    "question":"mortality cause explaindifferent age groups snd explain whagt is disiability adjusted life year  ",
     "choice":
     [
      "",
@@ -461,11 +461,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":" "
+    "explanation":"coronary heart disease is frim 25 to 44 , copd is  65 ,   "
    }
   ,
   {
-    "question":"Sketch the haemoglobin (Hb) dissociation curve and explain in general terms why changes in PO2cause Hb loading and unloading",
+    "question":"explain pattern of comormidities across the age population  ",
     "choice":
     [
      "",
@@ -475,11 +475,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+    "explanation":"what is the most common comormidities , 65 above ( back and cardiovascular disease)"
    }
   ,
   {
-    "question":"List and explain the processes causing O2 delivery via Hb unloading in the capillary as a result of increased muscle VO2",
+    "question":"explain the burden on society in terms of the cost of different disease ",
     "choice":
     [
      "",
@@ -489,11 +489,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"muscle vo2takes in oxygen , po2 in cytoplasm decrease in muscl cell , concentration gradient from capillary to msucle cell , increase rate of diffusion , decrease concentration of o2 dissolevd in capillary blood , low p02 cause o2 unbinding from hb , more po2 in capillaryv (not 100%)"
+    "explanation":"280 ppl develop r=type 2 eveyr day , "
    }
   ,
   {
-    "question":"Explain the relationship between muscle VO2, rate of arterial O2 delivery, and rate of venous O2outflow",
+    "question":"cost of living with a chronic condition ",
     "choice":
     [
      "",
@@ -503,11 +503,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+    "explanation":"time cost , not just physcil , family , mean time spend to manage the condition (26 per month)"
    }
   ,
   {
-    "question":" Define the terms: O2 content, CaO2  and CvO2 State the approximate value of CaO2  in a normal male",
+    "question":" how many years longer will a person live if ia 50 year old maintains a oderat elevel of exercise , healthy body mass index , annd healthy diet , avoid ciug , alcohol ",
     "choice":
     [
      "",
@@ -517,11 +517,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"O2content = dissolved O2+ O2bound to Hb (i.e. total O2) "
+    "explanation":"typically lic=ves 50 more years ,  "
    }
   ,
   {
-    "question":"Using the Hb dissociation curve, and relationship between PO2 and dissolved O2 relationship, and O2 content, explain why PvO2 is lower thanPaO2",
+    "question":"explain the different models for prevention please ",
     "choice":
     [
      "",
@@ -531,11 +531,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+    "explanation":"primoirdial prevention ( policy) , primary (beofre showw disease) , secondayr ( showing signs may have miy not have ) , tertiary (defintly hv the disease )"
    }
   ,
   {
-    "question":" State and explain the derivation of the Fick principle of determinants of muscle VO2 [ VO2 =   blood flow x (CaCO2   - CvO2 ) ], and be able to use this formula to perform calculations.",
+    "question":" differenc between inqeuity and inqeuality ",
     "choice":
     [
      "",
@@ -549,7 +549,21 @@ var questionbank =
    }
   ,
   {
-    "question":"State the determinants of muscle O2 delivery. ",
+    "question":"list the roles of physiotheraphy in primary prevention",
+    "choice":
+    [
+     "",
+     "",
+     "",
+     ""
+    ]
+    ,
+    "answer":"0",
+    "explanation":"increase physical activity , reduce sedentary behaviour , counselling , injury prevention , smoking cessation, ,reduce obesity  , falls prevention program , "
+   }
+  ,
+  {
+    "question":"is most of what physios do part of the secondary prevention ??",
     "choice":
     [
      "",
@@ -563,7 +577,7 @@ var questionbank =
    }
   ,
   {
-    "question":"Explain in general terms why muscle O2 delivery must equal muscle O2 demand during exercise",
+    "question":"give me some examples of primary , seconday and tertiry prevention ",
     "choice":
     [
      "",
@@ -573,11 +587,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+    "explanation":"primary is policu=y , secondary is , tertiary is any management rogramme , support groups , or any vocational rehabilitation programs to retrain workers "
    }
   ,
   {
-    "question":"Describe the physical arrangement of the arterioles, pre-capillary arterioles capillary beds and venule in a skeletal muscle. ",
+    "question":"Can tertiary prevention help reduce hospotal admissions ? and what is the potential problem?",
     "choice":
     [
      "",
@@ -587,11 +601,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+    "explanation":"pulmonary rehab is so effecive , but problem is low attendence rate . heapf of hospital avoidance program,  "
    }
   ,
   {
-    "question":"Explain how alterations in smooth muscle tone (contraction or relaxation) of the pre-capillary arteriole determines muscle blood flow",
+    "question":"please describe health literacy ",
     "choice":
     [
      "",
@@ -601,11 +615,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"what about contraction by the cns At rest:•arteriole smooth muscle is tonicallycontracted !•muscle blood flow is low,During moderate exercise:•some relaxation of smooth muscle•muscle blood flow is moderately high , During intense exercise:•marked relaxation of smooth muscle•muscle blood flow is high"
+    "explanation":"60 opercent has low health literacy ,...the degree of the individual has the capacity , to process , basic helath information to make a decision , there are three types , basic , being able to read and write(maybe provide other language ) , communicative interactivbe( the ability to look at the data and ask qquestions ) , critical health literacy(able to make decision)  "
    }
   ,
   {
-    "question":"Describe locally-controlled vasodilation: Specifically list three possible muscle metabolites that may have a vasodilating action and explain how muscle metabolic rate regulates muscle blood flow",
+    "question":"Describeanother set of literacy  ",
     "choice":
     [
      "",
@@ -615,11 +629,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"During exercise metabolic rate of skeletal muscle cells & RBCs  shear past endothelial cell and unload O2,Muscle cells, endothelial cells, and RBCs cells release various metabolites•which act directly on smooth muscle to cause them to relax , Thus muscle metabolic rate (which also rate muscle of O2consumption & unloading of O2from RBCs •causesn rate of muscle O2delivery , atp k pg no "
+    "explanation":"prose literacy , ability to read , document literacy , ability to filll a d=form , numeracy  , math , dosing , problem solving , what if i have  afever what do i do now , when age increase , low level increase , "
    }
   ,
   {
-    "question":"Describe centrally-controlled vasoconstriction: Specifically  describe the innervation of vascular smooth muscle by the sympathetic nervous system and explain how increased sympathetic nerve activity causes vasoconstriction , action is global , ",
+    "question":"describe the impact of low health literacy ",
     "choice":
     [
      "",
@@ -629,21 +643,7 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"the arterioles of muscles, skin& visceraare innervatedby sympathetic afferent nerves ,exercise causes sympathetic nerve activity: , sympathetic fibresrelease Nadon smooth muscle , Nadcauses smooth musclecontraction,blood flow , when you go all the way up to vo2 max , amount of cnsoverides brat , muscle blood flow decrease  "
-   }
-  ,
-  {
-    "question":"Describe the most commonly used maximal test protocols and outline the advantages and disadvantages of each",
-    "choice":
-    [
-     "",
-     "",
-     "",
-     ""
-    ]
-    ,
-    "answer":"0",
-    "explanation":"modifed bruce ( treadmill) , used in cardiology clnicns ,balke treadmil test , constatn speed , increnented grade walking test 5.3 km /h and 1 percent grade increase per minute , incremental cycle protocol , incremental cycle testr at 50-60 rev /mincadence "
+    "explanation":" hospitalizationinceasen and ed increase . not understnd dosage , higher risk , forget to take meduction  , moe likely to have risky ifestyles , higher has vaccinations , take mefi==dciation correctl , to ealthcare system, miss appointments , treatment adherence ,  "
    }
   ,
   {
@@ -1413,7 +1413,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"everything decrease except heart rate(decrease by about 15 percent ) , Most rapid drops are in 1st few weeks ....then more gradual decrease Training adaptations are more than ½ gone by 3 week of detraining  "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1427,7 +1427,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"citrate synthase , [SDH] decrease by 40 percent , "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1441,7 +1441,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"Progressive linear in 1stmonth of bedrest (later does eventually plateau out)1stmonth: i.e. 2x duration →2 x VO2max  "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1455,7 +1455,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"lv mass also progressively decrease during bed rest : a study suggest cardiac output decrease by 26 percent , stroke volume decrease by 28 oercent , heart rate increase sliht;y , so major cause is decrease of stroke volume , and thats because of decrease in end diatolic volume , and it is because if decrease in blood vloume , blood volume progressively decreases during the 1st3 week of bedrest , decrease in blood volume causes decrease in decreased filling pressure thus lead to decrease in ventricular filling , less frannk starling , decreased stroke volume ,  "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1469,7 +1469,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"blood volume bounces back in 3 days of re-ambulation , Re-ambulation causes LV mass ... however recovery is slower than recovery of PV•so exercise capacity may only fully recover weeks after bed rest "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1497,7 +1497,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":" Exercise (specifically the AMOUNT of exercise) has a general effect on progress of many different diseases , similar in all cause mortality and specific ddidease ...increase in physical activity results in reduction of all cause mortality , dose response , the more the better  "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
      ,
      {
@@ -1511,151 +1511,8 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
      }
-     ,
-     {
-      "question":"Understand concepts of critical dose potency of exercise",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"Dose Potency: The strength of exercise training at a particular dosage to elicit gains of the desired outcome."
-     }
-     ,
-     {
-      "question":"Know and be able to describe the seven basic principles of exercise prescription and their seven modifiers from the ACSM Position Stand for exercise in healthy populations",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Know and be able to describe the seven basic principles of exercise prescription and their seven modifiers from the ACSM Position Stand for exercise in healthy populations",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Explain whether exercise can be “fractionized” or broken up over a single day and if this is better than one exercise session a day",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Understand whether exercise intensity and duration can be “traded off”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Understand the usefulness of interval training as a prescription tool, and acknowledge the circumstances where it may be beneficial or not beneficial”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"  Be able to correctly prescribe exercise intensity using heart rate, perceived exertion (2 ways) and by work rate”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Be able design a complete exercise prescription to improve aerobic fitness in a healthy person covering all the seven basic principles of ExRx, based on that individual’s response to a cardiorespiratory fitness test and using the ACSM MetCalc equations”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Know the ACSM Position Stand for the use of Lifestyle Physical Activity for weight loss”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-     ,
-     {
-      "question":"Know how the 7 “modifiers” (eg. age, gender, etc) may change the nature of exercise prescription given to a healthy person”",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
-     }
-
-
-
 
 
 
