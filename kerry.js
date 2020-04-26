@@ -647,7 +647,7 @@ var questionbank =
    }
   ,
   {
-    "question":"Define indirect calorimetry and how it relates to energy expenditure",
+    "question":"please list the common measures of health .",
     "choice":
     [
      "",
@@ -657,11 +657,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"The measurement of expired respiratory gases to estimate substrate utilisation and energy expenditure, Relies on the law of conservation of energy to assume:fuel consumed = heat produced"
+    "explanation":"life expectancy ,mortality , morbidity , comorbidity , incidence , prevalence , disability - adjusted lifeyear , years of life lose , years lived with diaibility , self assessed health status  "
    }
   ,
   {
-    "question":"Explain the differing effect on VO2 of modality, workload increments, analysis increments and stage duration",
+    "question":"Explain different models of health please ",
     "choice":
     [
      "",
@@ -671,11 +671,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"effect of modality on vo2 max treadmill running > cycling for vo2 max , (5% difference between mode will be less due to adaptation  , VO2increases smoothly in 1-min increments since the time to plateau during a new intensity is ~ <1min, compared to some ‘steady state’ in longer stages"
+    "explanation":"medical model , biop[sychosocial model , socio ecological model , "
    }
   ,
   {
-    "question":" explaint the fpur fearues of a max vo2 test ",
+    "question":" explain the socio ecological model in more detail  ",
     "choice":
     [
      "",
@@ -685,11 +685,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"mode , increments , duration(8 -12 min is a common recommendation , However, a duration between   5 -26 min is also effective), criteria for maximum "
+    "explanation":"imagine the onion peel , personal , interpersonal , organizational , community , public policy "
    }
  ,
  {
-    "question":" Outline the criteria required for a VO2max test outcome, and how this compares to a VO2 peak test outcome",
+    "question":"Give me the definition of health promotion",
     "choice":
     [
      "",
@@ -699,11 +699,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Primary criteria: Plateau in VO2 despite an increase in workload , Secondary criteria:•RER > 1.15 •HRmax≤ 10 bpm or ≤ 5% of the age predicted maximum•RPE of ≥19  , Traditional termination: △VO2of <2.1 ml/kg/min between stages , use verficiation if uncsure "
+    "explanation":"the process of enabling people to increase control over their own health , any planned combination of educational , political , regulatory , and organizational supports for actions and onditions of living conducive to the health of individuals , groups  , or communities . "
    }
    ,
    {
-    "question":" Explain secondary criteria for vo2 max test : respiratory exchange ratio :ratio of co2 released to oxygen consumed , reflects anaerobic metabolism , excess co2 from lactic acid buffeeing , RER > 1.05-1.15 (depending on which source you use)(most reliable proboemmis range big) , heart rate (termination criteria , HRmax≤ 10 bpm or≤ 5% of the age predicted maximum) ",
+    "question":" Explain the WHO principles for health promotion",
     "choice":
     [
      "",
@@ -713,11 +713,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Primary criteria: Plateau in VO2 despite an increase in workload , Secondary criteria:•RER > 1.15 •HRmax≤ 10 bpm or ≤ 5% of the age predicted maximum•RPE of ≥19  , Traditional termination: △VO2of <2.1 ml/kg/min between stages , use verficiation if uncsure "
+    "explanation":"health promotion is context driven , integrates who health defintion , by addressing the multi dimensional nature of health , its physical , social , and mental dimeniosn , underpins , overall responsibilityh of the state in promoting health , all levels of governemnt has a responsibility and accountabiliity for protecting maintaining health , good health as public good , participation is core principle in promoting health  "
    }
    ,
    {
-    "question":" Be able to explain what the variable total peripheral resistance (TPS) means in terms of the cardio vascular system ",
+    "question":"Explain the otta wa charter and explain how it relates to health promotion to smoking and obesity  ",
     "choice":
     [
      "",
@@ -727,11 +727,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Primary criteria: Plateau in VO2 despite an increase in workload , Secondary criteria:•RER > 1.15 •HRmax≤ 10 bpm or ≤ 5% of the age predicted maximum•RPE of ≥19  , Traditional termination: △VO2of <2.1 ml/kg/min between stages , use verficiation if uncsure "
+    "explanation":"building healthy policy(NHMRC obesity guidelines sku cantee ) , create supportuve environment , strenttheing community action(swaap it dontdrop it how do you measure up , develop persoonal skills , re orienting health services . "
    }
    ,
    {
-    "question":"  Be able to state the mathematical relationships a) relating MAP, CO and TPR and b) relating CO, HR and SV, and be able to perform calculations with these relationships",
+    "question":" is obesity only increasing in adult population? ttur or false ",
     "choice":
     [
      "",
@@ -741,11 +741,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Primary criteria: Plateau in VO2 despite an increase in workload , Secondary criteria:•RER > 1.15 •HRmax≤ 10 bpm or ≤ 5% of the age predicted maximum•RPE of ≥19  , Traditional termination: △VO2of <2.1 ml/kg/min between stages , use verficiation if uncsure "
+    "explanation":"increasing in both the adult and children population "
    }
    ,
    {
-    "question":"  Sketch the relationship between TPR and power (i.e. exercise intensity) and explain the physiological events causing the shape of the relationship. (Note: numeric values for TPR are not examinable)",
+    "question":"How can we as physios be involved in healh promotion , explian sing the ota wa charter fraamewor ",
     "choice":
     [
      "",
@@ -755,11 +755,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Primary criteria: Plateau in VO2 despite an increase in workload , Secondary criteria:•RER > 1.15 •HRmax≤ 10 bpm or ≤ 5% of the age predicted maximum•RPE of ≥19  , Traditional termination: △VO2of <2.1 ml/kg/min between stages , use verficiation if uncsure "
+    "explanation":"build healthy policy ,,, create supportive environemnts , occupi , community action , workforce , "
    }
    ,
    {
-    "question":"Explain why the changes in TPR with increasing exercise intensity are a threat to MAP",
+    "question":"What is activity based fundig?",
     "choice":
     [
      "",
@@ -769,11 +769,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"in exercise , tpr decrease necause of muscle locally controled vsodilation  this decrease tpr , and if co isnt raised , map will decease  "
+    "explanation":"pay for the service you recieve , when hospital is quiter , funding goes , so why promote ,how to congragulate a hosptal that has progrmas successful in reducing hospital vivist    "
    }
    ,
    {
-    "question":"Describe and explain the responses of the autonomic system to exercise. Specifically explain these responses in the context of actions to prevent a fall in MAP during exercise at increasing power. Include baroreceptor input your answer.",
+    "question":"explain different types of behaviour change models , remeber the accronm ,",
     "choice":
     [
      "",
@@ -783,11 +783,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":" HSCTT , HEALTH belief model (if patient know the actual consequence of the disease , then patient might be more inclined to do sth about it (perceived threat of the disease , example of this (back book))), social learming cohg=gintive model (notion of self efficacy , more than jusst confidence , but capable  ,not just abou confidence but also when you are out with friends...more confident , both personal and environemntal factors ,example that uses thiss , moving on  ), com b , transtherotical change  , theory of reasoned action (if a patient )  "
    }
    ,
    {
-    "question":"Sketch the relationships between active force and muscle length (sarcomere length) for both skeletal and cardiac muscle. Indicate the approximate physiological range for cardiac muscle and explain the significance of the shape of the relationship in this region. (Note: numeric values are not examinable)",
+    "question":"explan thepry of resoned action ",
     "choice":
     [
      "",
@@ -797,11 +797,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":" its connection with alcohol consumption , self efficacy on alcohol  bahaviour is a function of behaviour intention , and behaviour intention is a function of attitude towward behaviour and subjective norm , "
    }
    ,
    {
-    "question":" Describe the events occurring during diastole: Specifically a) describe what happens to cardiac muscle cell length, define the term EDV and explain the determinants of EDV. Sketch and explain (in general terms) the shape of the relationship between diastolic volume and ventricular filling pressure. (Note: numeric values are not examinable)",
+    "question":" explain the com-B model ",
     "choice":
     [
      "",
@@ -811,11 +811,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":"capability (not just physical  but also psycological ), motivation(self efficacy ) , opportunity(have resource , social norm ), all affects behaviour , education , persuasion , incentiviation , coercion , training , restriction , modelling   "
    }
    ,
    {
-    "question":" Sketch the relationship between EDV and SV, and be able to indicate in the relationship how and increase in EDV will effect SV",
+    "question":" transtheortial ",
     "choice":
     [
      "",
@@ -825,53 +825,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":"cues foe posiive change , cues for negative change ... also related to self efficacy ... there can be relaspe use to assess , contemplatio , preparatioj , active chabge , maintanece , how effective (50 50 ) , assessment , treatment goal   "
    }
    ,
    {
-    "question":"Describe the steps in the Frank Starling mechanism starting with an increase ventricular filling pressure and ending with an increased SV",
-    "choice":
-    [
-     "",
-     "",
-     "",
-     ""
-    ]
-    ,
-    "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
-   }
-   ,
-   {
-    "question":"In general terms explain the overall purpose (or benefit) of the Frank Starling mechanism",
-    "choice":
-    [
-     "",
-     "",
-     "",
-     ""
-    ]
-    ,
-    "answer":"0",
-    "explanation":"↑ filling of the heart ....‘automatically’ causes ↑ cardiac output(via ↑ SV)"
-   }
-   ,
-   {
-    "question":"  In the context of exercise describe the steps, starting with muscle vasodilation that result in increased CO via the Frank Starling mechanism",
-    "choice":
-    [
-     "",
-     "",
-     "",
-     ""
-    ]
-    ,
-    "answer":"0",
-    "explanation":"causes muscle vasodilation ...... causes muscle blood flow... causesvenous return , Right heart*:... causes RV filling pressure... causes RV EDV=  muscle length during diastole  ... causes active force next systolevia Frank Starling mechanism... causes RV SV , causes LV filling pressure... causes LV EDV=  muscle length during diastole  ... causes active force next systole via Frank Starling mechanism... causes LV SV... causes cardiac output to systemic circulation   "
-   }
-   ,
-   {
-    "question":"Describe and explain the responses of the autonomic system to exercise. Specifically explain these responses in the context of actions to prevent a fall in MAP during exercise at increasing power. Include baroreceptor input your answer.",
+    "question":"compare and contrast three methods of research in terms of the stance , meaningn , and approach ",
     "choice":
     [
      "",
@@ -885,7 +843,7 @@ var questionbank =
    }
    ,
    {
-    "question":" Sketch the relationships between active force and muscle length (sarcomere length) for both skeletal and cardiac muscle. Indicate the approximate physiological range for cardiac muscle and explain the significance of the shape of the relationship in this region. (Note: numeric values are not examinable)",
+    "question":"How many types of qualitative studis are there ?",
     "choice":
     [
      "",
@@ -895,11 +853,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Cardiacmuscle length –tension relationship•From sarcomere lengths ~1.5 to 2.0 mm: the potential to develop active force rises rapidly•Increase length past ~ 2.0 mm prevented by connective tissue ‘bag’ wrapping outside of heart : pericardium "
+    "explanation":"informing review ,, enhancing e=reviews , extending reviews , suppleementing reviews "
    }
    ,
    {
-    "question":" Describe the events occurring during diastole: Specifically a) describe what happens to cardiac muscle cell length, define the term EDV and explain the determinants of EDV. Sketch and explain (in general terms) the shape of the relationship between diastolic volume and ventricular filling pressure. (Note: numeric values are not examinable)",
+    "question":"describe the typical process of conduting a qualitative reserach ",
     "choice":
     [
      "",
@@ -909,11 +867,53 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"left ventricle relax , lv pressure decrease , pulmonary vein presure constant , left av valve opens , flow from pulmonary vein to lv , lv passively fills due to the vein filing pressure , final ampunt after filling (determinants fillinfg pressure , ventricular wall compliance ), end diastolc volume ,  "
+    "explanation":"define research question , design study  , seek permossson and access to subjecs , pilot data collection , collect data , analyze ad devlop models , write up  "
    }
    ,
    {
-    "question":"Sketch the relationship between EDV and SV, and be able to indicate in the relationship how and increase in EDV will effect SV",
+    "question":"saturating of data , small numbers important have they eahced data saturation ",
+    "choice":
+    [
+     "",
+     "",
+     "",
+     ""
+    ]
+    ,
+    "answer":"0",
+    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+   }
+   ,
+   {
+    "question":"give me different examples of qualitatiuve methods ",
+    "choice":
+    [
+     "",
+     "",
+     "",
+     ""
+    ]
+    ,
+    "answer":"0",
+    "explanation":"strutured interviews , open edned interviews , focus groupn , biogrqphy and autobiography , visual methods , open ended proformas , realist tales , observations (observe w physio does ) "
+   }
+   ,
+   {
+    "question":" what are he mroe common ways to do qualitative research ",
+    "choice":
+    [
+     "",
+     "",
+     "",
+     ""
+    ]
+    ,
+    "answer":"0",
+    "explanation":"ethnography(exploring decision making process in delivery of physio) , semi stuturted interviews(example in lecture , ppl with ra who successfully maintain pa are motivated by a desire to manage symtoms , resist functional declins and maintain health and independence ) , narrative interviews(exaample , experience of living with stroke to inform self management interventions , five themes , changed bodies , relationshsips , changing rols , identities , relative experience , help design meaningfuk personalized self managenen interventions that could be inegrated into daily life ,  ) , focus group (lumbar spinal stenosis seeek education and care focused on self management to understand factors that are important to ppl w ls ,3 themes are identiffied, emotional repsone desire for edu , and motivation to pursue edu , desire for individualized care based on self management  ) "
+   }
+   ,
+   {
+    "question":"difference in mindset between th9ose who are admitted to hospital often compared to those who can self manaeg ",
     "choice":
     [
      "",
@@ -927,7 +927,7 @@ var questionbank =
    }
    ,
    {
-    "question":"Describe the steps in the Frank Starling mechanism starting with an increase ventricular filling pressure and ending with an increased SV",
+    "question":"HOw to critically appraise a qualatiative reserach ",
     "choice":
     [
      "",
@@ -937,11 +937,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"Amount of filling during diastole depends on:•filling pressure  •ventricular wall compliance (i.e. ‘stretchiness’),increased diastolic volume , increase length of individual cardiac muscle scell , if it begins contraction at an increased length , force of contractionof systole increase , stroke volume increase .  "
+    "explanation":"how to examione to assess validity , results , relavance , ocnflict of research ,assess credibility , whether it make sende , transferability  , anothe ptient group? dependability ? confirmability can replicate ? position of reaeher ? who are they lecturer ask student  "
    }
    ,
    {
-    "question":"In general terms explain the overall purpose (or benefit) of the Frank Starling mechanism",
+    "question":"What questions you need to ask yourself when assessing a qualittive research ",
     "choice":
     [
      "",
@@ -951,11 +951,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":"use the casp checklist firest ! !! was the sample used in the study approrpiate? was the data collected app ? was he dtata analyze dapap  , can i transfer the date to another groyp , does the study adequately address potential ethial issue ? is what the researcher ddid was clear ?  "
    }
    ,
    {
-    "question":"In the context of exercise describe the steps, starting with muscle vasodilation that result in increased CO via the Frank Starling mechanism",
+    "question":"Tell me th eexact definition of physiotheraphy ",
     "choice":
     [
      "",
@@ -965,11 +965,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":"physio is a process that seeks to enable ppl with imparriments , activity limitations and participation restrictions , to reach their optimal pysical or social funnctiona level , hru partnership with familu providers and community "
    }
    ,
    {
-    "question":"Be able to state the mathematical relationship relating whole body VO2, CO, CaO2 and CvO2 – i.e, the Fick relationship – and be able to explain the relationship. Be able to perform calculations with the Fick relationship.",
+    "question":"whhta is the biggest implication of qualitatiuve reseach to physio ? ",
     "choice":
     [
      "",
@@ -979,11 +979,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"at beginning of exercise , central commamnd increase map set point , baroreceptor now below set pint , causes error signal , causes increase in peripheral sympathetic activity , vasoconstriction to viscera , skin , non exercisng muscle ., also cause  increase in cardiac sympathetic activity , increase in hr , contractility , decrease vaus , this increase co , also increase co by frnak starling mechanism ,  "
+    "explanation":"the implementation of evidence based pracice ,can inform physio on how to facilitate adherence and improve effectivenesss of intervention"
    }
    ,
    {
-    "question":"Be able to explain the determinants of VO2max in terms of the  Fick relationship",
+    "question":"put physio in emergency department ",
     "choice":
     [
      "",
@@ -997,7 +997,7 @@ var questionbank =
    }
    ,
    {
-    "question":"Sketch and explain the relationships between a) CvO2 and exercise intensity and b) CaO2 and exercise intensity, and indicate and describe the changes in a-v O2 difference (Note: numeric values are not examinable)",
+    "question":"How can qualitative research helps phyIO ?",
     "choice":
     [
      "",
@@ -1007,11 +1007,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"The muscle VO2ii)As exercise intensity ... muscle removes O2from capillary at higher rateiii).. so CvO2decreases with exercise intensity , The CvO2goes from rest ~ 100 ml O2/ L blood down to 30 ml O2/ L at max exercise , ungs + pulmonary circulation do an excellent job keeping CaO2approx. constant , a-vO2 difference with intensity , max ~ 85% extraction of O2from arterial blood !"
+    "explanation":"discuss patients condition prognosis empathetically  , assessing health literavy anf paient understanding , disucss acceptability and self management , facilitating adherence , patient empowerment and self efficacy . "
    }
    ,
    {
-    "question":" Sketch and describe the approximate shapes of the relationships between a) LV EDV and intensity b) LV ESV and intensity, c) SV and intensity, d) HR and intensity and e) CO and intensity. (Note: numeric values are not examinable). Briefly be able to explain the changes in EDV, ESV, SV, HR and CO",
+    "question":"self management is useless if patient dont use , findings , those who frequrntly present to hospitel consider their health to be better than those self manage , self manage acceot the condition , self manage reli well so dont present , seld fdenial in the hospital group , best thing to go is hopital , think it is external , self manahe , accept but also have control     ",
     "choice":
     [
      "",
@@ -1025,7 +1025,7 @@ var questionbank =
    }
    ,
    {
-    "question":" Sketch the approximate shapes of the relationships between a) SBP and intensity b) MAP and intensity, c) DBP and intensity. In terms of the sympathetic nervous system explain the changes in MAP with exercise intensity.",
+    "question":" self management versus self care ",
     "choice":
     [
      "",
@@ -1035,11 +1035,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"MAP stay approx. constantActually tends to slightly with intensity ( MAP ‘setpoint’ is reset to higher value during exercise) Note SBP goes up a lot, but MAP not so much.Recall formula for MAP = DBP + 1/3 (SBP-DBP) ... means MAP more influenced by DBP than SBP"
+    "explanation":"self care is looking after yourself to prevent a disease while self management is trying to mitigate thta impact ."
    }
    ,
    {
-    "question":"  Sketch the relationship between VO2 and power, and explain this relationship in terms of the Fick principle",
+    "question":"Why parint doesnt adhere to self management ",
     "choice":
     [
      "",
@@ -1049,7 +1049,7 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+    "explanation":"five main factors , social /economic related(enables want to get back to sport , barrier no  time ) , condition related (painful , can relieve pain), theraphy related , healthcare team and system related (instructions too complex , desire to please the physio ), patient related (too tired , self efficacy ), "
    }
    ,
    {
