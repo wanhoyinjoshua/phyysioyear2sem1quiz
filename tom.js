@@ -1651,8 +1651,219 @@ var questionbank =
       ]
       ,
       "answer":"0",
+      "explanation":"Memonic : FITT frwquency , intensity , time , type of exercise , volume , pattern and progression  , modifiers include age , initial fitness , disease , downfall fo exercise program is fear to progress to vigorous    "
+     }
+     ,
+     {
+      "question":" Understand the importance of exercise progression for training outcomes, and acknowledge when ExRx principle hierarchy should be revised to suit the patient goals”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"mortality and intnsity has a dose response relationship ,as training statu sincreases , intensity become the limiting factor , if the patient main preferenc eis performance , the  first increase intensity , duration then frequency , if its health , then frequency , duration and then intensity   "
+     }
+     ,
+     {
+      "question":" Be able design a complete exercise prescription to improve aerobic fitness in a healthy person covering all the seven basic principles of ExRx, based on that individual’s response to a cardiorespiratory fitness test and using the ACSM MetCalc equations”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"there ar ea number of wuestions to consider : what level of fitt to sstart at ? what exercise is suitable ? how do i initiaally presribe intensity ? ho do i progress the program ? how do i help the client to adhere ?   "
+     }
+     ,
+     {
+      "question":" Briefly explain in terms of overall energy loss and gain how high energy electrons harvested from bonds in carbohydrates drive ATP resynthesis in oxidative phosphorylation (OxPhos)”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"95 percrnt of atp to powe is by oxs phos , oxphos use energy derived from stripping electrons from fats and carbs , then use that energ to drive ap resynrrhesis , oxs phos is a two stage appraich   "
+     }
+     ,
+          {
+      "question":"  In overview, briefly describe and explain the 2 stages of OxPhos – the electron transport chain (ETC) and ATPsynthase – and explain how they are coupled together.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"stage 1 , electron transport chain , high energy electron tranffere a;ong  aseriwes of h hydrigen pumps embedded in the mitocchondrial membrane , energy is lost by electorns sued to create a h concntratipon gradient across a membrane , stage 2 : atp snhase , h flows back down its gradient thru a protein machoine , atp aynthase , h flow drives a turbine in the protin , drives the energy consuming process , adp to atp . "
+     }
+     ,
+     {
+      "question":"For the ETC explain in terms of energy loss and gain how high energy electrons create the H+ gradient and explain the role of NADH and O2 in the ETC”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"electron transport chain has 3 protein complexes , physiclaly close to each other , embedded in the inner mitochhndirla wall , e carrier nadh trasfer a paor of high enengy e to the ffirst pump , the e p=move thru the pump, lose poetntial energy m that energy is used to pump h ions , creating a concentration gradient , after passing thru the third pmp , the now low energy e need to be dispoased of somehow , oxygen accept it , to form water , o2 keeps etc running , electorn transport chin needs two things to function ,  a constant supply of o2 , and nadh , when the gradient s fully pumped up , nadh and o2 consummption will cease , unless the h graidetn is drained   "
+     }
+     ,
+     {
+      "question":" Starting with glucose and fatty acids describe in general terms the steps involved in NADH supply to the ETC”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"source of high enegy electron is from ch bond in glucose and fatty acid we eat as food , fatty acids first imported in mitochondria , glucose slplit , by glycolysis outside litochondira , then pyruvate imported into mitochondira , both pyruvate and fatty acids chipped down to 2 carbon segment , acetyl co a , this is fed into cirtirc acid cycle , high energy stripped from acetly by breaking ch bonds , then trasnported by nadh to etc  "
+     }
+     ,
+     {
+      "question":" For the ATP synthase in terms of energy loss and gain how the H+ gradient drives ATP resynthesis, and describe how the ATP synthase works”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":" outsude the iner membrne of the mitochondira , hydrogen ions reallly want to go back inside , but cant , because it is only one way , the only cgannel is that atp synthase , when h moves thry that channel , change shape  ... drives a turbie in the atp synhtase , force of turbine movement is transferred t the catylytic site ,  "
+     }
+     ,
+     {
+      "question":" i) Explain what happens to the ATP produced by OxPhos in muscle during exercise and ii) explain the supply of substrate to the ATP synthase.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"atp produced by atp synthase diffues out of mitochondira , substrate for atp suynthase ( adp) diffuses int the mitochondria , and binds with atp synthase active site . "
+     }
+     ,
+     {
+      "question":" Explain how the rate of OxPhos is regulated in muscle the transition from rest to exercise”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
       "explanation":"15 min brisk walk or 5 min runnign per day : 10 percent reduction i all cause mortality , cause an extensio of 3 more years , 105 , is 35 percent reduction in all cause mortality   "
      }
+     ,
+     {
+      "question":" In overview, briefly describe and explain the components causing an increase in exercise capacity following endurance training.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"changes in cv struture (increase in blood volume , exxectric), and changes muscle struture (increase in mitochondria , ) ,   "
+     }
+     ,
+     {
+      "question":"Sketch* and describe the relationship between cardiac output (CO) and power before and after endurance training for a typical subject. Compare and explain the CO values before and after training at a given submaximal power.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"pre training : co increase lineraly with power up to co max , post training : co to subma increase linear with power as well , same line ,,exercise at 75 w still need same vo2 , need same oxygen delivery to the muscle  , however training caused increase in cardiac output max , so incrase in vo2 max lwad to increase in max power   "
+     }
+     ,
+     {
+      "question":" Sketch* and describe the relationship between blood [lactate] and power before and after endurance training for a typical subject. Compare [lactate] values before and after training at a given submaximal power, and explain why cardiovascular adaptations of change in VO2max cannot explain the changes in [lactate]”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":" pre training : blood lactate increase non linearly with power , driven by non linear incerease in amp , post traaining , blood lactate level lower at every submaximal power , primary cause of decrease in fatigue during submaxumal exercise   "
+     }
+     ,
+     {
+      "question":"  Describe in general terms how changes in muscle mitochondrial capacity can be assessed.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"mitochondria are placed at intervals along the length of each myofibril , if there is a high or low concentration of any one mitochondrial protein , this indicates all mitochondrial proteins will be present at that relative concentration level , therefore w=we can measure by measuing increase in concentration of a representative mitochondrial protein/ enzyme , or increase in relative volume mitochondira occupy in muscle fibre ( mitochondrial content )  "
+     }
+     ,
+     {
+      "question":" State – approximately – typical values for i) the change in mitochondrial capacity and ii) VO2max for an endurance training program (MICT, HIIT, SIT#) for a male or female healthy young adult, or middle-aged or elderly client who are healthy or who have a chronic disease.  (Assuming adequate training dosage)”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"avaerrga chgange for trainng group is 41 percent , un volume density of mitochondria , increased mitochondria in trained muscle is the universal findign for all people doing endurance trainign , as long as dosage is sufficient , including healthy mae , female , young and old , even obses , from a review , aaverge value for change of enzyme cone  is 29 percent , and change in vo2 max is 12 percent ,sprint interval training is not included     "
+     }
+     ,
+     {
+      "question":"  Sketch* and describe the relationship between muscle [mitochondrial protein] and time for i_ 3 months of endurance training, ii) long-term maintenance training and iii) detraining.”",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"see linear increase up to at least 3 months , the longer u train , the more mitochondria u get , eventually plateaus out , plataue level depends on weekil training volume , ( frequency times tume ), also by genetic variation , to summarize  for the first three months , longer u train , more miochondria u get , maintainence training maintains this increase , stop will cause it to drop back to sedentary levels , when u reach 60 days of detraining , yr mitochondrial level drcrease to dedentary level to baseline ,   "
+     }
+
 
 
 

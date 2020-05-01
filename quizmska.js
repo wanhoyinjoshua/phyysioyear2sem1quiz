@@ -1030,6 +1030,82 @@ var questioncorrectwronglist =[];
     "answer":"0",
     "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
    }
+   ,
+   {
+    "question":"The pathology of tendinopathy is primarily related to ",
+    "choice":
+    [
+        "inflammation",
+        "micro teargin of collagen",
+        "celloular changes",
+        "all of the above "
+
+    ]
+    ,
+    "answer":"2",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"Pathological features of tendon pathology include: ",
+    "choice":
+    [
+        "Change in the extracellular matrix including increased proteoglycans and increased type I collagen fibrils",
+        "Change in the extracellular matrix including increased proteoglycans and neurovascular ingrowth",
+        "Decrease in tendon size and neurovascular ingrowth",
+        "ncrease in tendon size and type I collagen fibrils"
+
+    ]
+    ,
+    "answer":"1",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"Stages of tendinopathy include: ",
+    "choice":
+    [
+        "Normal tendon->reactive tendinopathy-> tendon disrepair-> degenerative tendinopathy",
+        "Normal tendon-> degenerative tendinopathy->reactive on degenerative tendinopathy-> reactive tendinopathy",
+        "Normal tendon ->degenerative tendinopathy->reactive on degenerative tendinopathy-> tendon disrepair",
+        "Normal tendon ->tendon disrepair -> reactive tendinopathy-> degenerative tendinopathy"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"intial management of achilles tendinopathy oincludes  ",
+    "choice":
+    [
+        "Relative rest, add a heel lift into their shoe, commence isometric exercises targeting plantar flexors",
+        "Continue with exercise/sport, address any identified causative biomechanical factors and introduce isometric exercises targeting plantar flexors",
+        "Relative rest, add a heel lift into their shoe, apply ultrasound or interferential to reduce pain, imaging to confirm",
+        "Rest, add a heel lift into their shoe, NSAIDS, individualised eccentric exercise program for plantarflexors"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"Pain in tendinopathy is variable and complex, however, we do know pain is related to:",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+
 
    
    

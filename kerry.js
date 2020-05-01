@@ -1053,7 +1053,7 @@ var questionbank =
    }
    ,
    {
-      "question":"   Describe and explain primary causes of lower VO2max  in an average woman compared to man, in absolute terms (L/min). Include in your answer reference to: COmax, HRmax, SVmax, LVEDV, and heart size (total heart volume - THV). Identify sub-components of the Fick principle that are similar between men and women.",
+      "question":" all cause mortality risk is a curvlinear relationship according to levl of physical activity or fitness",
       "choice":
       [
        "",
@@ -1067,7 +1067,7 @@ var questionbank =
      }
      ,
      {
-      "question":" Sketch and explain the cross-sectional relationship between THV and VO2max for subjects ranging from sedentary to elite athlete. ",
+      "question":" physical inacitivuiyt is the no 4 reason of death ,risk factor for getting hronic disease  ",
       "choice":
       [
        "",
@@ -1081,7 +1081,7 @@ var questionbank =
      }
      ,
      {
-      "question":" i) Explain why VO2max  measured relative to body weight (ml/kg/min) is more similar between men and women compared absolute units (L/min), and ii) explain reasons why differences still remain comparing VO2max relative to body weight between men and women.",
+      "question":"What are th ebenefits of phhysical activity ",
       "choice":
       [
        "",
@@ -1091,11 +1091,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"difference is because of different heart size and difference in concentration difference , when you normalize it , you take away the conributon of heart size , sinxe hat size is correlated to body size and man ususlly ahs bugger frames than women , when absolute difference is 35% , relative is 25% , btu why difference still occur , female has higher percent fat compared to male , "
+      "explanation":"redice colon cnacer , breast cancer , osteo diabitese, coronoary  , mentla health "
      }
      ,
      {
-      "question":"Sketch (graph) the relationship between CaO2 and CvO2 from rest to maximal exercise for a typical man and woman",
+      "question":"being active , inspite of weight is beneficial ...",
       "choice":
       [
        "",
@@ -1109,7 +1109,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Explain primary causes of the decline in average VO2max with age. Identify sub-components of the Fick principle that are similar between young and old.",
+      "question":"are australian suffciently active ? no ...",
       "choice":
       [
        "",
@@ -1123,7 +1123,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Sketch and explain the cross-sectional relationship between CO max and VO2max for subjects ranging from those with chronic disease to elite athlete. ",
+      "question":"What are the physical activity guidelines ?",
       "choice":
       [
        "",
@@ -1133,11 +1133,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 max is limmited by oxygen delivery , o2 delivert is deined as co max x cao2 , "
+      "explanation":"150 min of moderte physical  actiivty , vigorous half as much  , resistance 1 session per week at least , break up sitting time  "
      }
      ,
      {
-      "question":"Sketch and explain the relationship between change in COmax and change in VO2max for a typical endurance training program (3-12 months). (Note: Numeric values not examinable for specific groups such a frail elderly, males with CHF, etc.). In general terms describe what are the similarities and differences for changes in COmax and change in VO2max for a typical endurance training program comparing: men and women, young and old, health and those with chronic disease.",
+      "question":"how we can promtoe physical activity ",
       "choice":
       [
        "",
@@ -1147,11 +1147,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"Endurance training COmax(and so capacity for O2delivery)... and this in the main factor explaining training VO2maxwithin the sameperson  "
+      "explanation":"whole of school , transport policy ...promote and prevent , welling being  "
      }
      ,
      {
-      "question":"Describe and explain the primary causes of increased VO2max with endurance training. Include in your answer reference to: COmax, HRmax, SVmax, LV ESVat max , LV EDV at max. Identify sub-components of the Fick principle that are similar between pre and post-training.",
+      "question":"how confident physio are to promote physical actitivy in provatye practice ? ",
       "choice":
       [
        "",
@@ -1161,11 +1161,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":" , increease in left ventricular filling after endurance exercise is due to increased blood volume(rapid 1 week , from sedentary to trained ) eccentric cardiac hyperetrophy , if sufficient adaptaation is enuf , after endurance training , increase in co max and vo2 max are relatively modest , evn with long term training . endurance trainng cause increase in max co , however endurance training doesnt increase hr max , it decreases slighgtly with training .cardiac output increae entirely di=ue to increase in  stroke volume max increase . no chnage in lv end systolic volume max , increase in co completely due to increase in end diastolic poressure , There is an filling of the left ventricle during maximal exercise, after endurance training  "
+      "explanation":"50 percent ofphysios encouraneg more thn 10 patients per week , 33 oercent can name th eopa guideline , 90 percent thought it is feasible  "
      }
      ,
      {
-      "question":"State the direction of change (increase, constant, decrease) in blood volume, plasma volume, total red cell volume and [Hb], occurring in the first few weeks of a training program",
+      "question":"is behaviour education to promote exercise effective ? ",
       "choice":
       [
        "",
@@ -1179,7 +1179,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Step-by-step explain the cardiovascular mechanisms by which a training-induced increase in blood volume causes an increased COmax and VO2max  in a previously sedentary subject.",
+      "question":"what primary care intervention  work for increasing physical activity ?",
       "choice":
       [
        "",
@@ -1189,11 +1189,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"one on one couselling , self dorected , supervised or unsuperviesed , telephone(get support)by nsw  , self monitoring ? "
      }
      ,
      {
-      "question":" Describe the effect of plasma volume expansion on SV and VO2max  in a previously trained subject.",
+      "question":"What are some of he primary care onterventions that work to promote actve lifestyle ",
       "choice":
       [
        "",
@@ -1207,7 +1207,7 @@ var questionbank =
      }
      ,
      {
-      "question":" Briefly describe and interpret the experimental evidence that shows that increases in blood volume causes the increased COmax and VO2max after short-term training (i.e. Montero et al. 2015)",
+      "question":"primary care and 5a",
       "choice":
       [
        "",
@@ -1217,11 +1217,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"sedentary subjects did 6 weeks endurance training. •post training ... SVmax, COmax,VO2max & ,blood volume. •no change in LV mass. •After the post test  .... withdraw blood from the subjects equal to the training increase in blood volume. •After blood withdrawal the subjects performed a 2ndmax test. •SVmax, COmax,VO2max returned to pre training values, indicating that in blood volume caused training increases."
+      "explanation":"assess , advise , agree , assit , arrange "
      }
      ,
      {
-      "question":" Define the terms: eccentric cardiac hypertrophy and concentric cardiac hypertrophy, and describe the physiological stimuli causing each",
+      "question":"dog ownershhip and physical activity ? , do prior to pulmonary rehab ",
       "choice":
       [
        "",
@@ -1235,7 +1235,7 @@ var questionbank =
      }
      ,
      {
-      "question":" tep-by-step explain the cardiovascular mechanisms by which eccentric cardiac hypertrophy causes an increased COmax  and VO2max",
+      "question":"please recite the tutorial guidelines ",
       "choice":
       [
        "",
@@ -1249,7 +1249,7 @@ var questionbank =
      }
      ,
      {
-      "question":" Sketch or describe the pattern of change of VO2max and LV mass in response to 12 months of progressive intense endurance training.",
+      "question":" wHAT is sedentary behaviour?",
       "choice":
       [
        "",
@@ -1259,39 +1259,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"VO2maxincreased 18% from 0 –6 monthsthen no further increase from 6 moto 12 mo... despite 2x training dosage•LV mass 20% from 0 –6 monthsthen no further increase from 6 moto 12 mo... despite 2x training dosage"
+      "explanation":"anything thaats below mets 1.5 , "
      }
      ,
      {
-      "question":"Describe what happens to values of CaO2 at max and CvO2 at max comparing before and after a typical training program",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
-     }
-     ,
-     {
-      "question":" Identify approximate values for increases in VO2max – in units of l/min and as a % change – for a typical endurance training program (3-12 months)m",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"Average percent change pre-raining to post –trainingVO2maxand COmax.... similar percent increases with training: 11-13%  for ~1-3 month training , a-vO2diffmaxshows only a small change "
-     }
-     ,
-     {
-      "question":"  integrated model of how endurance training increases VO2max and why this should increase performance",
+      "question":"concept of incidental activity , ",
       "choice":
       [
        "",
@@ -1305,7 +1277,35 @@ var questionbank =
      }
      ,
      {
-      "question":"Describe the variability in change in VO2max for a group of people performing an identical endurance training program, and in general terms define the non responder, and approximate the proportion of in a population.",
+      "question":"how to objectvely measure sedentary time ?",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"accelerometers , objective measurement of sedentary time , self repoeted sittingtime ,  most (57 % ) is sedentary  "
+     }
+     ,
+     {
+      "question":"more active increase all cause mortality , increase sitting , however active , increase yr ll cause mortality ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+     }
+     ,
+     {
+      "question":"if replace one hour of sitting with one hour of exercise , then impove your hazard ratio , ",
       "choice":
       [
        "",
@@ -1319,7 +1319,7 @@ var questionbank =
      }
      ,
      {
-      "question":" In terms of the general chemical relationship for oxidizing fats and carbohydrates (CHO), sketch and explain the relationship between: i) rate of fats and CHO oxidation (combined) and power and ii) VO2 and power.",
+      "question":"How sitting is accumulated is also improtant , the more you break up , the more ",
       "choice":
       [
        "",
@@ -1333,7 +1333,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Explain why someone with a low VO2max will have a lower exercise capacity compared to someone with a substantially higher VO2max.",
+      "question":"thing about policy is whether you are targeting the right group of people ",
       "choice":
       [
        "",
@@ -1347,7 +1347,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Comparing people with different VO2max values, compare and explain their VO2 values when exercising at the same steady state submaximal power",
+      "question":"is activity based activiy working aall positive ? positive impact on interaction m communciation work perfomanc , no , privacy  concentration equivocal impact on physica and mental .   ,  ",
       "choice":
       [
        "",
@@ -1361,7 +1361,7 @@ var questionbank =
      }
      ,
      {
-      "question":"Define the terms absolute VO2 and relative VO2, and explain the application of these concepts to different client and exercise mode scenarios",
+      "question":"impact on msk discomfort , reductions in msk symotoms , ",
       "choice":
       [
        "",
@@ -1375,7 +1375,7 @@ var questionbank =
      }
      ,
      {
-      "question":" Explain why endurance training may result in reduced effort to perform activities of daily living (ADLs) for an older person, or someone with chronic disease, but result in no change in effort for a young adult.",
+      "question":"the need to normalize behaviours . impact of education on breaking up sedtanry tiem , standing desk and control biggest change is education and desk , education onlyh a little a ",
       "choice":
       [
        "",
@@ -1389,7 +1389,7 @@ var questionbank =
      }
      ,
      {
-      "question":" Explain why immediately post bed rest an older person, or someone with chronic disease, may require a structured exercise program but a young adult may not.",
+      "question":"post stroe spend so littl time moving m we create an enviroment tto force ppl to sit , ",
       "choice":
       [
        "",
@@ -1403,7 +1403,105 @@ var questionbank =
      }
      ,
      {
-      "question":"  Sketch the approximate time course of change in VO2max for a previously trained person when they stop training. Explain the causes of the decreased VO2max with detraining, and sketch the approximate time course for the components determining VO2max during detraining.",
+      "question":"What is the cause of obesity ??",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"measured using body mss indez , most commonly used , enerygy intake greater than energy expenditure , social norms too , militaty family assigned to high obesity rate , --- around the world , africa , australia 30 percent is obeses"
+     }
+     ,
+     {
+      "question":"prevalence of obseity in australia ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"v30 opercent of ppl r onses , two in three , 1 in4 children  "
+     }
+     ,
+     {
+      "question":"list some effective stragieties for weight loss ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":" national performance benchmark  , try to increase , prevent obseity in children , whts more effective , healthy eating , sessions for pnysical activity , part of school week , healrhy canteen ,create environment , support teachers to implenment ,"
+     }
+     ,
+     {
+      "question":"exercise effectiveness obesity ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"even in the absence of weight loss , exercise can reduce blood pressur e "
+     }
+     ,
+     {
+      "question":"using transtherotical in weight loss ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"assessment , .... medication , effective to lose small to medium weight loss , surgery , can lead to greater loss f weight compareed o short term,,reduction on comorities ,  "
+     }
+     ,
+     {
+      "question":" guidelines on nuttrition , ive guideline ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"wide variety , maintain healthy weight , lmit intake of food contains saturated fat , opromote breastfeding , good food hygeine , "
+     }
+     ,
+     {
+      "question":"role of promary care in obesity  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"whole ofsociety approach , start at chidlren , or vefore the child is born ,  giv more resouces equity ..."
+     }
+     ,
+     {
+      "question":"cigarettrs has not always been perceived at bad ,  ",
       "choice":
       [
        "",
@@ -1417,7 +1515,7 @@ var questionbank =
      }
      ,
      {
-      "question":"  Name two representative muscle oxidative enzymes and the sketch the approximate time course of change in concentration of these enzymes for a previously trained person when they stop training.",
+      "question":"actual impact of smoking ,  ",
       "choice":
       [
        "",
@@ -1427,11 +1525,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"2/3 lifetime smoker wil die from a disease caused by their smoking  "
      }
      ,
      {
-      "question":" Sketch the approximate time course of change in VO2max over one month of bed rest. Briefly – in regard to exercise capacity - explain why it is important to minimize the duration of bed rest.",
+      "question":"give me some benefits of smoking cessation",
       "choice":
       [
        "",
@@ -1441,11 +1539,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
      ,
      {
-      "question":" Explain the causes of decreased VO2max during bed rest. ",
+      "question":"quit at 60 , still give you 3 years of life expectancy ",
       "choice":
       [
        "",
@@ -1455,11 +1553,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
      ,
      {
-      "question":" Describe the approximate time course of recovery of blood volume and LV ventricular mass during recovery (re-ambulation) following bed rest. ",
+      "question":"14.5 percent of people smoke , outer regional and remote aread tend to smoke more , aborginal stend to smke more , almost one third have been diagnosed as having mntal health disordeer ",
       "choice":
       [
        "",
@@ -1469,11 +1567,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
      ,
      {
-      "question":"  Describe barriers that people may commonly identify as reasons not to do regular exercise ",
+      "question":"smaller baaby ?? reason to smoke,, why then nicotine is addictive , actucate nicotine receptors in the brin , the faster the delic=vdery of ncototine to th brain , the greater the effect , take 6 to 10 sec  ",
       "choice":
       [
        "",
@@ -1483,11 +1581,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
      ,
      {
-      "question":"  Sketch or describe the relationship between: all-cause mortality, and death due to cardiovascular disease, cancer, and diabetes mellitus relative to activity level. Discuss the practical implications of these relationships. ",
+      "question":"improved sense of taste and smell, dun wanna guv u somking because the f=gain weight ...explain more , ",
       "choice":
       [
        "",
@@ -1497,11 +1595,11 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
      ,
      {
-      "question":"State the predicted reduction in all-cause mortality if a previously sedentary person were to regularly exercise for i) 15 min brisk-walking/day or 5 min running/day or i) 105 min brisk-walking/day or 25 min running/day. ",
+      "question":"no of smokers in 55 to 65 more has more t=s okers ...",
       "choice":
       [
        "",
@@ -1511,8 +1609,404 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"vo2 increase as both co increases and ca cv difference increase , increse linearly  "
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
      }
+     ,
+     {
+      "question":"strageties , either behavioral ,or oharmological, try behaviour forst ,breif opportunity advice is imprtant to kerry , increasing self efficacy , use in conjucntion ,   ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"pharmacotheraphy : nicotine repacment , varenicin , bupropan , cuyctine , e cigaretes  , nicotine repacemnt caan be rovided to pregnant womenr , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"three drusg you need to know , Champiz Tabex(not avavin opbs) Zyban  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"hwta is normal walking , walk at 11 monthes of age ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"base width in gait , as we agi , walking speed slows down , with shorter steps and linger stance phases , increased tme when both feet are in contact wif the ground (increase stav=biloyt)  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"walking stuick is usually contralateral side to wwhere the issue is , patiet prefer to use dominant hand , increase base of support , kep your feet as close as possibel to the wheels  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"within 20 min , heart rate and blood pressure drop , 12 hours , co leveml in blood drop to normal , 2 ro 12 weeks, circulation improves and lung function increases , one to 9 months , coughing and shotness of breath wil; apper , 5 years , risk of stroke decease , 10 yuears , riask of lung cancwr drop , 15 years , risk of coronoary heart disease is tht of a non smoker ,   "
+     }
+     ,
+     {
+      "question":"please give me some indications for walking aids ,  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"decreased abiloty to bear weight through lower limbs , weakness , balcnce , pain , improve ggait patteren , increase confidence to mobilize , improve gait pattern , cognitic efactors ( bad can increase thri risk )   "
+     }
+     ,
+     {
+      "question":"What is the rile of the aid ,  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"walking stuick 20 percent of body weight , frame up to 50  "
+     }
+     ,
+     {
+      "question":"what si the weight bearing status ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"non weight bearing , NWB   , TWB , touch weight bearing , (for balance ) pwb  , partial weight bearing  , wbat , weight bearing is tolerated(can bear as much weight as tey can tolerate ,full weight bearing    "
+     }
+     ,
+     {
+      "question":"when use mobility , msk , neurological conditions , acuite storke , paeediatric onset , neurodegenrative paralysis peripheral disorders , presribing walking aid promotes mobility and exercise partocipation   ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"non weight bearing , NWB   , TWB , touch weight bearing , (for balance ) pwb  , partial weight bearing  , wbat , weight bearing is tolerated(can bear as much weight as tey can tolerate ,full weight bearing    "
+     }
+     ,
+     {
+      "question":"when use crutch and walkig stick ,why use quad stick over walking frame ( when i stroke m cant really grip) ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"non weight bearing , NWB   , TWB , touch weight bearing , (for balance ) pwb  , partial weight bearing  , wbat , weight bearing is tolerated(can bear as much weight as tey can tolerate ,full weight bearing    "
+     }
+     ,
+     {
+      "question":"how to teach a person to use a wlking stick , forarm support frames , pick up frames , rollaor fromaes , four wheeled walker 3 wheeled walker , posterior safety roller sfor kids ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"got 4 stoppers , need to pick up vulnerble , rollator framee vs pick up frame ? , weight tolerance , standard iss 80 90 kg , bariiatric patients ..."
+     }
+     ,
+     {
+      "question":"knee waalkers ... how to fit a walking stick ?",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"patient can be measured in suopine or standnign , place stick 15 cm from lateral malleolus , elbow in 15 to 30 degree of flexion when holding the stick , handle of the stick should reac the greater trochanter , ulnar styloid or proximal wrist crease , patient should wear well fitted shoes "
+     }
+     ,
+     {
+      "question":"how to fit axillary crutch ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"stopper (ferrule ) 15 c, out from lateraal malleous , 4 fingers sopoace bewtween axilla and padding , handgrip at proxial wirst grease , recheck space between axilla , and padding when upright , ensure patient use pair , unsafe to use just one "
+     }
+     ,
+     {
+      "question":"what do you wanna check before asking ppl to wapk on a stck or sth similar , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"measure bp , sp02 , ensure sitting balance on the edge of chair or bed  also heps with any postural hypotension , check screws and wing nuts must be tight , rubber tps , must not be uneven , integry=ity of parts , floot aint sluppery , footwear , clothing , drips  "
+     }
+     ,
+     {
+      "question":"what do you wanna check before asking ppl to wapk on a stck or sth similar , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"measure bp , sp02 , ensure sitting balance on the edge of chair or bed  also heps with any postural hypotension , check screws and wing nuts must be tight , rubber tps , must not be uneven , integry=ity of parts , floot aint sluppery , footwear , clothing , drips  "
+     }
+     ,
+     {
+      "question":"gait pattenrs with aid s ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"step thru gait , four point alternating pattern , trpod alternating , tripod simulatanois   "
+     }
+     ,
+     {
+      "question":"which side off the stick  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"contalateral side of the injur , but if same , bs=ase of suport is smaller , "
+     }
+     ,
+     {
+      "question":"what do you wanna check before asking ppl to wapk on a stck or sth similar , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"measure bp , sp02 , ensure sitting balance on the edge of chair or bed  also heps with any postural hypotension , check screws and wing nuts must be tight , rubber tps , must not be uneven , integry=ity of parts , floot aint sluppery , footwear , clothing , drips  "
+     }
+     ,
+     {
+      "question":"how to teach ppl walk stairs , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"initial assessment always donw woth second therapist , stick go down first then bad leg goes down "
+     }
+     ,
+     {
+      "question":"research on mobility aid ,  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"small alteration in the length of walking sitck used fr weight bearing ambulation in patients with unlateralk knee oa increase energy expenditure during walking  , use of a walking sstikc can diminsh pain and improve phsical function in oa  knees , if height too high to low , increase energy expenditture , half ofppl with oa and ra use aid "
+     }
+     ,
+     {
+      "question":"measuing phsical activity ( calorimetery , doubly abelled water tecniques ), physical activity vs physical fitness ...not interchanghable ?  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"accelerometers , actigraph , axivity , fixbitx  "
+     }
+     ,
+     {
+      "question":"describe components of totaal energy exendityr e",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"resting exnergy expendtyre  thermic effect of food , activity eergy expenditure  "
+     }
+     ,
+     {
+      "question":"describe intensity f exercise with mets , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"sendentary is smaller than 1.6 mets , light  1.6 to 3 met , moderate  3 to 6 , vigorous , 6 to 9 , high , 9 mets "
+     }
+     ,
+     {
+      "question":"have 0 rpe ? no rang eis from 6 to 19 ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"sendentary is smaller than 1.6 mets , light  1.6 to 3 met , moderate  3 to 6 , vigorous , 6 to 9 , high , 9 mets "
+     }
+     ,
+     {
+      "question":"measure cardioascular fitness , ewalkig spped , physical activity engagement ...",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"sendentary is smaller than 1.6 mets , light  1.6 to 3 met , moderate  3 to 6 , vigorous , 6 to 9 , high , 9 mets "
+     }
+     ,
+     {
+      "question":"measure cardioascular fitness , ewalkig spped , physical activity engagement ... meadure exercise performance , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"sendentary is smaller than 1.6 mets , light  1.6 to 3 met , moderate  3 to 6 , vigorous , 6 to 9 , high , 9 mets "
+     }
+     ,
+     {
+      "question":"self report vs observation of exercise  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"39 report to be adgerent , 16 percetn actually do ti , simialr to physio , but physio more accurate ? no  , only a small percnetag ecomes from the phsio group "
+     }
+
+
+
+
 
 
 
