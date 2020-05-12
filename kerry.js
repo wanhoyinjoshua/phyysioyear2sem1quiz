@@ -2355,6 +2355,62 @@ var questionbank =
       "answer":"0",
       "explanation":"ensure can contract correctly , teach how to increase strnrgt , how to functonally use it ,  correct technique , squeeze aorunf the urethra , vagina and anus , inward lift of perineum , ways to check , observation , palaptio , rtus "
      }
+     ,
+     {
+      "question":"how to manage incontinence ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"strength andmanagementr , vaginal support device contoform "
+     }
+     ,
+     {
+      "question":"treatment for urgency incontinence  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"still need to strnegthen , to inhibit detrusor overactivity , and lifestyle advice , consitpation iritates bladder as well , elimination of known baldder irrtanns , caffiene  artificial swetteners ,carbonareddronks , electricla stumulaiton to inhibit detrusor activity , insert inside vagina , directl behind baldder , sacral tens as well , tiial nerve stimkation , bladder adffertnrt project to muturition centre in s2 , posterior tibial sensory fibres also projr=ect to s2 , megative behind the medial maleous , behaviour retrining  , let it pass , urge supproesion steageties "
+     }
+     ,
+     {
+      "question":"what are urge supprrsion stragetes ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"pressure on  perineum fromm hand sitting on arm edge of chair , sitting on corner of table , sqeeuze pelvic floor  , activation of [psteropr rtbiail nerve , toe curling and valf activation , faciitation of frontal lobe ] "
+     }
+     ,
+     {
+      "question":"what is nocturia  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"pressure on  perineum fromm hand sitting on arm edge of chair , sitting on corner of table , sqeeuze pelvic floor  , activation of [psteropr rtbiail nerve , toe curling and valf activation , faciitation of frontal lobe ] "
+     }
 
 
 
