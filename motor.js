@@ -13,7 +13,7 @@ var questioncorrectwronglist =[];
 var questionbank = 
 [
   {
-      "question":"give me the definitions of manual handling ",
+      "question":"human cant walk automativally , need to learn .normal sequence of milestones , can only be achieved after a certain period of time ",
       "choice":[
       "",
       "",
@@ -26,7 +26,7 @@ var questionbank =
   }
   ,
   {
-   "question":"What is model law ? and what is the model work health safety act andhow does it do  its job ",
+   "question":"how segment of the bodya dn moment of inertia change as we age , and recite piagets development of change ",
            "choice":[
             "",
             "",
@@ -34,12 +34,12 @@ var questionbank =
             ""
            ],
    "answer":"0",
-   "explanation":"to secure the health and safety of workers and workplaces : by asking duty holders and employees to minimie risk , providing a fair and effective representation , consultation and cooperation , encourage provision of advice , education and training. securing complaince with the act .  "
+   "explanation":"sensirimotor , pre operationla (reversibility , volume , sauage has bigger volume , water mark , ), concrete operational , formal operations ,   "
 
   }
   ,
   {
-   "question":"are there different regulator in veery state (whs ) , whats the one called in NSW , ",
+   "question":"perceptual activity is limited when motor skill is impared  ",
    "choice":
    [
     "",
@@ -53,7 +53,7 @@ var questionbank =
   }
   ,
   {
-   "question":"please describe the role of Safework nsw , ",
+   "question":"less skileed resembles push like , simulatanoeuys movement rather than sequrence ",
    "choice":
    [
     "",
@@ -66,7 +66,7 @@ var questionbank =
   }
   ,
   {
-   "question":"What are the safety responsibilities of an employee ?",
+   "question":"compare and contrast skilled vs unskilled movement ",
    "choice":
    [
     "",
@@ -75,11 +75,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"must take resaonable care fo themselves and not do anything that would affect health and safety ofothers , follow any resaonble health and safety instructions from employer , (work safely , follow instructions , ask if not sure how to safely perform , use ppr , report injuries and unhealthy situations "
+   "explanation":"skilled : small no of segent ,distal seegments dont lag , stiff movement of joints , lack of sequencing , small range of motion .. skiled : large no of segments , segments lag and whip , free movements of joijts , proximal to distal sequencing , large range of motion "
   }
   ,
   {
-   "question":"How to make sure someone can work safely ?",
+   "question":"define and differentiate learning and memory ",
    "choice":
    [
     "",
@@ -88,7 +88,7 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"shown to use any equipment that you will be operating , given personal protective equipment and shown how to wear it properly , shon around the workplace , entry exit points  fitst aid areas , know emergency evacuation proceduresa , and shown the emergency evacuation points , introduced to ummediate supervisor , health and safety representative (HSR), know safety policies , and procedures , in place , how to report problems or injuries ,know everyones role in the workplace "
+   "explanation":"learning is process by whihc we aquire knowledge from the external world and put it into memory "
   }
   ,
   {
@@ -105,7 +105,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Why is it important to practice safe manual handling ",
+   "question":"define motor memeory ",
    "choice":
    [
     "",
@@ -114,11 +114,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"no of workers is the gretest , 12 percent of the workforce is injured , fal,ls , biggest nechanism of injury , hit by objects , sound pressure , mental stress, indrect cost , time off work , wont return to work "
+   "explanation":"persistence of the aquired capabilioty to perform something"
   }
   ,
   {
-   "question":"What is the top cause of injuty in the healthcare industry ? ",
+   "question":"define learning ",
    "choice":
    [
     "",
@@ -127,11 +127,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"lifting people or moving beds and trolleys , slips and falls in high traffic areas , your mental stress, occupational violence and aggeession"
+   "explanation":"neural serquence of events followed by biochemical "
   }
   ,
   {
-   "question":"What is a code balck ",
+   "question":"explain the model for learning ",
    "choice":
    [
     "",
@@ -140,11 +140,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"secutity id called in the ed , similar to what a fall is to a patient , cideblack hjappens to the staff , the worst possible threat to the staff , ice and intoxication of alcohol , cognitive impairment , age care ward "
+   "explanation":"sensory memeory , short term memeory , long term memeory (short term memeory store(iconic memery) , sbort term memeory (working memeory(7))) , if info in short term is not process ( reheased , ... it s lost , into long term requires synthesis of orotein , short term only needs modification of proteins , "
   }
   ,
   {
-   "question":"claims , serious claims ",
+   "question":"components of long term memeory ",
    "choice":
    [
     "",
@@ -153,11 +153,11 @@ var questionbank =
     ""
    ],
    "answer":"0",
-   "explanation":"acsm screening model : review history for known disease(if yes high risk ) , signs and symtoms suggestive of cvd?(if ues high risk ) cvd risk factors (if>2 moderate , otherwise low )  "
+   "explanation":"procedural() , declarative ( semantic , eposodic )(processed by hippocampus "
   }
   ,
   {
-   "question":"safe work month october ",
+   "question":"explain the HM case ",
    "choice":
    [
     "",
@@ -171,7 +171,7 @@ var questionbank =
   }
   ,
   {
-   "question":"workplace msk disorders , how ? which one is the most comon ?",
+   "question":"straegties to enhab=nce memory peeformance ",
    "choice":
    [
     "",
@@ -185,7 +185,7 @@ var questionbank =
   }
   ,
   {
-   "question":"Sats of injuries in physiotherapists in queensland ",
+   "question":"in everyday activitues , most individuals strive for effortless excution , as soon as they attain an acceptable evel of [erformance , they start to sutomate , what is proactive interference ? explain the stroop interference , ad how to correct the error in skill excution  ",
    "choice":
    [
     "",
@@ -195,11 +195,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"91 percent of physio reported at least one workplace msk injury duing their career , 48 percent is lower back pain even thumb, neck and upper back as well . 18 percent has left because of the msk pain , higher oprevalnace of injury is commonly seen in the younger age group , becuase they dont ask for help , no experience , sports physio 3 times more thumb pain ,thumb ossteoarthtitis , privayte is wrist  pedirtrics is knee  "
+   "explanation":"91 percent of physio reported at least one workplace msk injury duing their career , 48 percent is lower back pain even thumb, neck and upper back as well . 18 percent has left because of the msk pain , higher oprevalnace of injury is commonly seen in the younger age group , becuase they dont ask for help , no experience , sports physio 3 times more thumb pain ,thumb ossteoarthtitis , privayte is wrist  pedirtrics is knee , ,how t correct , three ways , freeze techniquwe , old way new way , video self modelling  "
   }
   ,
   {
-   "question":"What are some of the job related risk factors for physiotherpahy",
+   "question":"to reduce error rates , please explain the swiss cheese model , defemse in deoth ",
    "choice":
    [
     "",
@@ -213,7 +213,7 @@ var questionbank =
   }
   ,
   {
-   "question":"principles that underpin safe manual handling ",
+   "question":"learning can occur in the automatic system without ivolvement of the consious system ( ijmplicit learnign) , learninng can be facilitated by trusuting the autonomic system ",
    "choice":
    [
     "",
@@ -227,7 +227,7 @@ var questionbank =
   }
   ,
   {
-   "question":"How to have risk management ?",
+   "question":"an internal focus constrians the motor system ",
    "choice":
    [
     "",
@@ -241,7 +241,7 @@ var questionbank =
   }
   ,
   {
-   "question":"what is a safe manual habdling checklist ? work environment ? individual factor ?",
+   "question":"What is focal dystonia ?and what is yips , compare and contrast the two of them ",
    "choice":
    [
     "",
@@ -255,7 +255,7 @@ var questionbank =
   }
   ,
   {
-   "question":"how to manual handle people , us ethe risk management model . ",
+   "question":"divide task into three parts : predictability ",
    "choice":
    [
     "",
@@ -265,11 +265,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"(any measures you can do to mitigate that risk ?) you have to think , wwhat is the task , what are the risk to this being a successful manamor , have i been properlyh trained , what harm do they pose to client , how can i eliminate or control each risk factor , was the process successful ? what would i repeat or do diffeently in the future  , eeven if you knwo the eqipmnt , you need to knwwo the specifics "
+   "explanation":"preparatory(three compoenent , relaxation , visualization , focus )  , functional , confirmatory "
   }
   ,
   {
-   "question":"give me the model to identify risk ",
+   "question":"there is an optimal speed for different mode of walking , each type has ots own optimal spoeed , for human , have optimal strike , smaller striek is more efficient  ",
    "choice":
    [
     "",
@@ -283,7 +283,7 @@ var questionbank =
   }
   ,
   {
-   "question":"be able to perform and describe the task of lying to sitting ,explain the procedure ,   ",
+   "question":"what is the neural change and energetic change when you are becoming more skilled  ",
    "choice":
    [
     "",
@@ -293,11 +293,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"(makee sure foot control is in close vicinity )(get the patient to help as much as possible ) position the patient side lying to the bed , and with knees bent , elevate the bed to about 45 degrees , hang the patients legs over the side of the bed , one hand on patients hip and another hand on patients shoulder  "
+   "explanation":"effferent neural signal , duation of cycle of activation decrase , reduced contionus activation of muscle , lower magnitiude of sugnal (magnitue, frequency , cocnsitency , rest periods in between . o2 consumption decrwease, hr decerase , economy of moveent increase  "
   }
   ,
   {
-   "question":"be able to assist the patient to sit to stand ...",
+   "question":"summarize changes from skilled to unskilled ",
    "choice":
    [
     "",
@@ -307,11 +307,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"when i say rock , you rock forward , hen i say stand ,you are going to stand up ,,   "
+   "explanation":"efficienty and economyu , preferred modes of movement coincide wit optimal energy efficienty , chaneges in muslce recuiment , muscle activity  skilled mototr performance , lower global enbergy cost   "
   }
   ,
   {
-   "question":"explaining lying to wheelchair ",
+   "question":"different fucntion between left and right brain , only 75 percent of baby has the same arm preference  ",
    "choice":
    [
     "",
@@ -325,7 +325,7 @@ var questionbank =
   }
   ,
   {
-   "question":"should we adjust the manueir according to the tallest person or the shortest person ",
+   "question":"define speed accuracy trade off and give three theories why it happen, bahviour response to instructions , what happens wen you manipulate the distance o ftaget and the sizze of target , and define  t he index of diffuculty , expalin fitts law , x axus andy axis ",
    "choice":
    [
     "",
@@ -335,11 +335,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"shortest  "
+   "explanation":"iteration coreecction model(inital impulse phase , a current control) , impulse varaibility  , optmisd sub movement model  "
   }
   ,
   {
-    "question":"How to use walking belts (pelican belts)?",
+    "question":"define motor learning and explain the three stages of learningn ",
     "choice":
     [
      "",
@@ -349,11 +349,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"not there to lift , but to control ,overhead bars , bed rails(no two bed rails can be used simulatanouesly ) ... "
+    "explanation":"motor learning is the permanent increase in performance arising as a result of practice and experience "
    }
    ,
   {
-   "question":"side board whenn",
+   "question":"compare and contrast consious and automatic control ",
    "choice":
    [
     "",
@@ -363,11 +363,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"when the transfer is pern=manant , "
+   "explanation":"consious is slow , serial , voluntary  , and attention demanding , and automatic is the opposite , but it is a continum , is walking  into a lecture hall automatic ? yea it is   "
   }
   ,
   {
-   "question":"What is slide sheet ",
+   "question":"why do movements become automatic ? ",
    "choice":
    [
     "",
@@ -377,11 +377,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"help transfer , "
+   "explanation":"consiouness can be freed it is very energy expensive , dont want to waste resoucres , perception is for action  "
   }
   ,
   {
-   "question":"What is mechanical aids and what ius the criteria of a good mechanical aid ",
+   "question":"compare and ocntrast procedural and declarative knowledge , automated procedual knowledge and declaarative stored in two different area of the brain  ",
    "choice":
    [
     "",
@@ -391,11 +391,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"standing aid , alings(full sling , ) , hover mats , hover jack(very expensive ) reduce the no of ppl handling , be aeasyu to operate , be capable of lifting the load saly , be capable of being used in the intended location , be in sound condition and properly maintained ,"
+   "explanation":"case of HM , how to explain , unable to hold information in memeory , procedual contorl of skills can occur without concouius attention , automaticity , and people want to autommate the skill as quickly as posssibel "
   }
   ,
   {
-   "question":"bariatric patient ",
+   "question":"What consititutes good goal setting ?",
    "choice":
    [
     "",
@@ -405,11 +405,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"bariatric is an internationally accepted term applied to patients whose weight exceeds recommended body mass index , and where bnody size restricts mobility , health or access to avaliable services or eqipment .(over 120kg)(250kg)super batriactric  "
+   "explanation":"setting specific and difficult goals leads to better performance than less specific goals or easy goals or no goals  , and what is the advantage of that ?, well four allow trainee to focus on his activities help regulate effort that is directed towrds these activities ,m help maintainvigilance in attempting to reach the goals , serve as a referent  aginsat which achivemen can be compared , and explain three type of goals , outcome goals , process goals , performance goals , explain cars , challengin , attainable , realistic , specific     "
   }
   ,
   {
-   "question":"explain what is hazardous manual task and describe some of them ",
+   "question":"explain rpinciples f goal setting in a pysio context  ",
    "choice":
    [
     "",
@@ -419,11 +419,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"patient transfer , repositioing in a wider bariatric bed , managing heavy limbs , take blood pressure during iv cannualtion , moving patient forward during chest observation , managing adipose tissueb ,  "
+   "explanation":"specificry , feedback , difficulty,   acceptance   "
   }
   ,
   {
-   "question":"innovatuve to engage the population is  the purpose of a health campagin , ",
+   "question":"define two types of motivation , and how extrinsic rewards undermine childrnes;s intrinsic motivation  ",
    "choice":
    [
     "",
@@ -433,11 +433,11 @@ var questionbank =
    ]
    ,
    "answer":"0",
-   "explanation":"treadmill vs byccycle(treafmill higher b=vo2 max , more difficult to get artifact free ecg  , bicycel , good ecg recording , easy bp recordigns , lower vo2 max ( 10 =% loower)) , step bench(only slighter lower vo2 than treadmil , deoendent on body mass and ones ability to lift it ) vs field teest(good for mass testing , prediction power abt vo2 max is least ) "
+   "explanation":"intrintisc , doing task for its own sake ,overjustification  "
   }
   ,
   {
-    "question":"What is the leading cause of death in australia ?",
+    "question":"explain what cognitive evaluation theory ",
     "choice":
     [
      "",
@@ -447,11 +447,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"number one is coronary heart disease(male and female) ,lung is second in male , stroke is third in male , dementia is second in female , stroke is third in female   "
+    "explanation":"extrinisnc reward to control decrease intrinsic , but extrinsic reward to validate increase  "
    }
   ,
   {
-    "question":"mortality cause explaindifferent age groups snd explain whagt is disiability adjusted life year  ",
+    "question":"brain has limitied capacity for processing  inputs , and for generating approriate response , therefore , how do we allocate attention resources if it is limited and how do we get around with a limited attention capacty  ",
     "choice":
     [
      "",
@@ -461,11 +461,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"coronary heart disease is frim 25 to 44 , copd is  65 ,   "
+    "explanation":"we allocate by three rules , aloocate to ensure we can complete one activity allocoate attention accordign to our enduring dispositions allocate according to novelty of stutin , implications for these , only inform pl wt they should attend to , remove other disttractions , and keep the environment clear , an important outcome in motor learning is reduction in amountof capacuty thats needed o perform the skill, and consequrn freing up of capacity for other task to b eperformed , we need all our attenion to be allocated to one thing   "
    }
   ,
   {
-    "question":"explain pattern of comormidities across the age population  ",
+    "question":"  explain the relationship between arousal and psycholohiccal activation ,and is there only one type of relatioship ? and what arousal affect and how to incoprate all this into goal asetting and motivation   ",
     "choice":
     [
      "",
@@ -475,11 +475,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"what is the most common comormidities , 65 above ( back and cardiovascular disease)"
+    "explanation":"arousal is a general physiological and psycological ctivation of the organism that varies on a continum of deep sleep to intense excitement , compare and contrast between trait and state anxiety , traint is an aquired predisposition to perceive ..to be more dangerous , state is momnetm to moment changs in feeling of nerbousness , worry , multiple u curves exist , fine and complex motor control require low arousal level , gross and simple one reuire fine motor control  "
    }
   ,
   {
-    "question":"explain the burden on society in terms of the cost of different disease ",
+    "question":"explain the attentional quadrants , and explain what consitiutes optimal performacne , ",
     "choice":
     [
      "",
@@ -489,11 +489,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"280 ppl develop r=type 2 eveyr day , "
+    "explanation":"borad external , borad internal , narrow internal , narrow external , switching between different quadrants ,  "
    }
   ,
   {
-    "question":"cost of living with a chronic condition ",
+    "question":"regurgitate everything about feedback , is augmented feedback nevcsar after the skill is autpmatized ?",
     "choice":
     [
      "",
@@ -503,11 +503,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"time cost , not just physcil , family , mean time spend to manage the condition (26 per month)"
+    "explanation":"proprioceptive intrinsic feedback may drop belowconious awareness , movement control changes from hghly dependent on feedback early on in learning t( cognitive and associative phase ) to being relatively feedback independent late in learning "
    }
   ,
   {
-    "question":" how many years longer will a person live if ia 50 year old maintains a oderat elevel of exercise , healthy body mass index , annd healthy diet , avoid ciug , alcohol ",
+    "question":"video feedback doesnt change what ( rhtymi.. coordination )",
     "choice":
     [
      "",
@@ -521,7 +521,7 @@ var questionbank =
    }
   ,
   {
-    "question":"explain the different models for prevention please ",
+    "question":"explain the guidnce hypothesis  ",
     "choice":
     [
      "",
@@ -531,11 +531,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"primoirdial prevention ( policy) , primary (beofre showw disease) , secondayr ( showing signs may have miy not have ) , tertiary (defintly hv the disease )"
+    "explanation":"a hypothesis oindicating role of augmented feedback in learning is to guide performance to be correct during practic e, however if provided too frequnely , can cause the learner to develop a dependency , and therefore perform prroly when its not avalable "
    }
   ,
   {
-    "question":" differenc between inqeuity and inqeuality ",
+    "question":" when will overlearning works and when will n=it not work? is there any difference between overlearning after 1 week or immmeidtae overlearning and is the more te better?",
     "choice":
     [
      "",
@@ -545,11 +545,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"oxygen content in aretrial - oxygen content in vein = muscle vo2 , content euqls blood flow times concentration (..."
+    "explanation":"works when its dynamic balamcne , and procedural skills, no difference between refresher and immeduate , and max benefit at 50 % 100 and 200 sem to be useless  "
    }
   ,
   {
-    "question":"list the roles of physiotheraphy in primary prevention",
+    "question":"define mssed practice and ditributed practice , why is distibuted better ",
     "choice":
     [
      "",
@@ -559,11 +559,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"increase physical activity , reduce sedentary behaviour , counselling , injury prevention , smoking cessation, ,reduce obesity  , falls prevention program , "
+    "explanation":"the rest period between sessions, its less fatigue , massing of practice may diminsh amount of cognitive effort used on eeach trail , beetter consolidtion "
    }
   ,
   {
-    "question":"is most of what physios do part of the secondary prevention ??",
+    "question":"complexity and organizational part , what strageties to reduce complexity , fractionization , segmentation , sijmplification ",
     "choice":
     [
      "",
@@ -577,7 +577,7 @@ var questionbank =
    }
   ,
   {
-    "question":"give me some examples of primary , seconday and tertiry prevention ",
+    "question":"when will verbal instructions hinder you  ",
     "choice":
     [
      "",
@@ -587,11 +587,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"primary is policu=y , secondary is , tertiary is any management rogramme , support groups , or any vocational rehabilitation programs to retrain workers "
+    "explanation":"verbal instructions hurt when instruction is directed towards specific compoennt rather thna the entire seuence and when emphasis is laid on the most undesribale outcome of an inended action and instrucyions focus on wha not to do t"
    }
   ,
   {
-    "question":"Can tertiary prevention help reduce hospotal admissions ? and what is the potential problem?",
+    "question":"what is the action effect hypothesis ",
     "choice":
     [
      "",
@@ -601,11 +601,11 @@ var questionbank =
     ]
     ,
     "answer":"0",
-    "explanation":"pulmonary rehab is so effecive , but problem is low attendence rate . heapf of hospital avoidance program,  "
+    "explanation":"implications m direct attention to intednded outvome rather than on movement itslf  "
    }
   ,
   {
-    "question":"please describe health literacy ",
+    "question":"describe transfer of learningn ,positive transfer deonds oon the degree of simnilairyt between two movement and two performan ce context , negative happens when a perceptully familiar situation requirs a movement hats different form the one kearned first ",
     "choice":
     [
      "",
@@ -2003,363 +2003,6 @@ var questionbank =
       "answer":"0",
       "explanation":"39 report to be adgerent , 16 percetn actually do ti , simialr to physio , but physio more accurate ? no  , only a small percnetag ecomes from the phsio group "
      }
-     ,
-     {
-      "question":"is fall the most costly in the hospital ?(injuires beccuz of falls dont get reembursed ), the longer you stay in hospitsl , the higher the risk you have  ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"39 report to be adgerent , 16 percetn actually do ti , simialr to physio , but physio more accurate ? no  , only a small percnetag ecomes from the phsio group "
-     }
-
-     ,
-     {
-      "question":"explain the national safety and qualoity health servie standards .",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"falls are under 5/8 standards ( comrpehensive care), coprehensive care of the individual , treat it as a person , "
-     }
-     ,
-     {
-      "question":"what kind of treatment will take plce if there was a fall , how can we avoid fall ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"if dead , root cause analysis , stat : more mae fall than women, locatiopn (a number of them who fall doesnt have fall at hoem )30 percent of falls occur in the weekends , falls tend to occur around mealtimes , or middle of the night , identified as need frames but dont yet have  aframe , toielting ,ways : conduct patient interviews psot fall(bad modeeling ), hourly roundingd , (if they expect youto come in th next hr , less lielly to getup ), bd rails , dont let two bed raisl up , cuz patient will get up anyway , safety HUDDLES (evaluation), saet volunteer friendly faces  , ward based champopn, towards routine toileting , more staff in lpi investigations .  "
-     }
-     ,
-     {
-      "question":"descorbe the epidemeology of falls, desrobe the physiology of falls , fall risk assessment , using evidence to guide practice , exercise to prevent falls , promoting adherence ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"one in three community dwellers fall oveer the age of 65 , one in 2 in residential care , one in 14 aged care .(consequence of fall, fall , decreased confidence , decreased social life....vicoius cycle ) , risk factor of falling , medical conditions , psychological conditions, sesirimotir and balance ,  environental , history of falls , poor footwear , poor lighting , decreased in msuce strnegth , how can we impact , exercise  "
-     }
-     ,
-     {
-      "question":"a fall occurs when th patients physiogy cant cope with a task being undertaken or the environment in whih the taskn is undertaken , explai the fall risk assessment  ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"feasibility reliability , validity , there eight functional test whoch is feasibel , sit to stand 5 , sit ti sstand 1 , 6m walk , stair descent  stari ascent , all validity 10 except stair acent , fall screen test : vision test , melbourne edge test ,  sensation position sense (poor higher risk), balance (sway yesy), speed (reeaction time), measure ofknee extension sstrength , maximum balane range  cooridinated stability chocie stepping reaction time, simple clinically based assessment , quick screen : vision tesr test of peripheral sensation , to lateral mallelous one line stand test , alternate stp test sit to stand test , assess not tht prvent , put it on radar  "
-     }
-     ,
-     {
-      "question":"exercise for fall preventipn ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"rate of falls are reduced compared to control by 23 percent , mixed type is most effective , however , if its only resistance exercise or dance or walking  , not enough evidnce to be certain about the effect on falls ,giving exercise to ppl who us at risk of fallng and those who a not is as effective , equally effective in a group setting or indivisuallly exercise are effective in both the young and the old no difference , exercise tend to be mpre effective if it includes a high chalenge to balance and dose ( three hrs per week is more effective ), progrma swith attributes decrease rae by 39 percent , effective with cognitive impared patient as well . (parkinsosn disease) but no effect on stroke patine , residential aged care , ppl recently dischanrged in hospital   "
-     }
-     ,
-     {
-      "question":"explaint he life program , stepping on program , review in hospital and aged care ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"functional task training , 8 week , 31 reduction , self efficacy , prevent falls in hospital settings , uncertin on the effectiveness on just providing exercise , generla medicaion review might make no difference , some evidence for vitami d suppleentation (reduce rate of fall , but not risk of falling , uncertain on the effect of physiotheraphy on rate of falls , uncertain on the effect of sensoralarms ) "
-     }
-     ,
-     {
-      "question":"how to implement fall prevention exercise in comunity dwellers? and how to adhere ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"task specificity , ppl are more likely to taje up exercise if they have exercise in the pasr , healthhy and mobile feel confident in thei ability to exercise  , oprograms are more effective to retain trainees if it si asseccible , have motivated enthusiacitc leaders addressindividual particupant needs sociable an dfun, older person lack of regnotion of their own risk fo fallinf , can be a threta to identiy , stgma , as a result , risk reduction ma=essage may be ignored , message should promote independent lifestyle , staying heallthy an phsyically active , fall has negativ connnatationsn, health coaching hhas a stastically signifciant effect on older ppl  "
-     }
-     ,
-     {
-      "question":"womens lehath :gynarcological conditions , obstretrics , pelvic health and prengant health ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"what in in the gynaecology conditions : pelvic organ prolaspe , stress urinary continence , urge urinary continence nocturia , defecation disorders , sexual pain disorders , chronic pelvic pain , vaginismis psot op gynae surgery . Obestetircs: pubic symphisis rupture , coccyx fracture , dequervaiun tenonitis , carpel tunnel , transient osteopororsis of the hip , rectus diastasis , round ligament pain , bells palsy  of pregnancy , varicosties of pregnancy , 3 4 degree perineal tears , gestatioal diabetes ,  "
-     }
-     ,
-     {
-      "question":"wwhat si pelvic organ orolaspe ,explain from anterior to posteriro what struture will  you encounter  ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"slipping of pelvic organ any organ hat sit inside the pelvi cavity , pubic symnphsis , lower urinary tract roagsn, reproductive organs , lower git organs , sacrum , 3 pelvic organ groups , storagr , release , baldder , uterus , rectum , urethra , vagian , naanl canal , normal position is based on possition of the vagian , bladder and urethra is sitting infront of it , uterus is sitting at rhe top , andrectum is behind , prolaspe , uterus push on anterior wall of vagina , retus , push on posterior wall of vagian , what hold the organs in pelvic floor muscle , sag down ,marble analogy, prolaspe of bladder , anterior vagina prolaspe ,"
-     }
-     ,
-     {
-      "question":"is a small amount of asymtomaticc descent normal ? ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"yes , one in three people will ahve prolaspe to the level to the vaginal entrance or beyond "
-     }
-     ,
-     {
-      "question":"what is the treatment for prolaspe , ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"recurrence rate after surgery is very high , so vaginal mesh , but some incidnec e, so fear amonst women , innterest in conservatiuve options ,"
-     }
-     ,
-     {
-      "question":"who is at risk, and how mnay types of pelvic floor tramua there is , can young women develpo pelvic floor prolaspe ,   ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"traumatic birth , any women with chronic respiratouy conditions , chronic constipation , regukar heavy lifting , eleite high level arhelete , three types , pernial tears pudendal neuropraxia , levator avulsion"
-     }
-     ,
-     {
-      "question":"organs are not damaged , what is damaged is the struture holding the organs  , but not just about msucle , fascial suport as well ,   ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":" , endopelvic ffasica is the primary sturtuyre that hodls the pelvic organ in place ,pubocervical fascia, back of bladder to front of vagina , stops the bladder from prolaspe , rectovaginal fasica , uterosacral ligaments , and muscles help support the fadcia , prolaspe isnt sudden ,  "
-     }
-     ,
-     {
-      "question":"how to trian muscle with prolaspe",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"bracr muscle when coughing , prescribe exercise without thinking about the pelvoc floor ,  "
-     }
-     ,
-     {
-      "question":"pubic sypthsis rupture why , what is normal , and what is not ,what is eplvic floor first campagin ,  ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"pregnancy is normally associated with a 4 to 9 mm widenign of ps , if stretch more than 1cm , unstable pelvis ,  rapid descent of fetal head during the second stage , uhneven foot support during psuhing , patient may oresent with immeduiate excruciating pain unable to wb , delatyed onset of pain by 1 to 2 days if incomplete rupture but swelling within fibrous joint  "
-     }
-     ,
-     {
-      "question":"what si the management plan with complete rupture of pubic symhisis ?",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"immnolize for 48 hrs with legs closed , with idc , ice repearted every 4 hrs , after 48b hrs , mobilization with walking frame , belt to support jont ,advice to minimize momvemrt at joint , abdominal bracing ,  "
-     }
-     ,
-     {
-      "question":"what si the presentation of coccyx fracture and managemnrt of ot , audicle crack , localied pain , pain difficuolty sitiing , worse with pelvic floor contraction , imbossibel to compleety mobilize , delayed reocvery , take 6 to 12 mon=th sto resove ,, ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"side lyign , crawl out of bed e=rater than sitting , use ofn coccyx cushion , (not ring , the pelvis will anteriorly tilt , (wider at the back , narrower aat the front , )) "
-     }
-     ,
-     {
-      "question":"what si the de   quervains tenosynotoivits , babyv wrist ,   ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"extensor pollicis brevis , and abductor pollicis longgus ,  apostnantal disorder, pain and swellin over radial stloid process , caused  by impared glifdign , how to diagnose , use palm in ulnardeviation, reproduce the pain , put their thumb inside their finger , is caused by excessive ulnar devaition, so want to minmizeulnar deviation ,  effective in mildcase 75 tto 95 , ice maage to decrease inflammation , splinting to immobolize thumb , (complainece low ), how to corrctly lift a baby up , one hand between shoulder blades , other hand ontop o fchest , "
-     }
-     ,
-     {
-      "question":"what si rectus diastasis ,    ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"increased distance between bellies of rectus abnominusb, to allow for enlarging uterus , incidence o recrus abdominis , during prenanacy , highest indidence i in third trimester , , how do we asses , palaption of medial boders of rectus on head ift , , mor eobjecuve  is dial callipers , , high intra rater reliabilkity m and high intra nas well , but nterms of exercise , no tmuch evidence , ta exercise, no ecieence ,  "
-     }
-     ,
-     {
-      "question":"what si rlower limb varicose veins ,     ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"is related to the saphnoeis vein of the ll , it contains , both oestrogen and progestr=eorn receptors , whjen dueing prenagnc , high estrogen production levle ,softens the eins , affect 40 percent of women , 70 to 80 percent  symptoms appear in the dirs trimnester , two to three weeksafter preganancy , the higher the ris , the gretaer the parity  , how to treat  , circulatory exercises , avpid prolonged sstanding , compression stiockings only orovide 20 to 30 mmghg must be professionally fitted "
-     }
-     ,
-     {
-      "question":"what si rlower limb varicose veins ,     ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"is related to the saphnoeis vein of the ll , it contains , both oestrogen and progestr=eorn receptors , whjen dueing prenagnc , high estrogen production levle ,softens the eins , affect 40 percent of women , 70 to 80 percent  symptoms appear in the dirs trimnester , two to three weeksafter preganancy , the higher the ris , the gretaer the parity  , how to treat  , circulatory exercises , avpid prolonged sstanding , compression stiockings only orovide 20 to 30 mmghg must be professionally fitted "
-     }
-     ,
-     {
-      "question":"give me a breif overview of bladde natomy , and undertdn intra vesical and urethral closure poressure m ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"muscle wall is knwon as detrusor , whaty is the length of the urethra , 3to 4 cm , its closure is afected by  interal external sphintet , pelvic floor contracvtion , fasical supprot , "
-     }
-     ,
-
-     {
-      "question":"how to screenf or incontinence  and how many types of incontinenec are ther  , is ti only for old woman , what abiut yong theltes 25 oercent exoerienc , but 90 percent never told anyen , womena barrier to exercise , urinary incontinence 2.5 times more likely to have low back pain , pelvic girgle pain women hav incntincey 4.6 times more likely   ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"two tyles , urgency ( sudden urge to go to pee  , cused by detrusor overactivity  spasms of the detrusor during storage pahse ) an strss (involuntray leakage of urine on effoer , occuers because urethral closure pressure i too low , "
-     }
-     ,
-     {
-      "question":"how to do a pelvic floor muscle traininf ",
-      "choice":
-      [
-       "",
-       "",
-       "",
-       ""
-      ]
-      ,
-      "answer":"0",
-      "explanation":"ensure can contract correctly , teach how to increase strnrgt , how to functonally use it ,  correct technique , squeeze aorunf the urethra , vagina and anus , inward lift of perineum , ways to check , observation , palaptio , rtus "
-     }
-
-
-
-
-
 
 
 

@@ -1863,6 +1863,48 @@ var questionbank =
       "answer":"0",
       "explanation":"see linear increase up to at least 3 months , the longer u train , the more mitochondria u get , eventually plateaus out , plataue level depends on weekil training volume , ( frequency times tume ), also by genetic variation , to summarize  for the first three months , longer u train , more miochondria u get , maintainence training maintains this increase , stop will cause it to drop back to sedentary levels , when u reach 60 days of detraining , yr mitochondrial level drcrease to dedentary level to baseline ,   "
      }
+     ,
+     {
+      "question":" describe the exercise prescri[tion lecture ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"explain the importance of cardiorepiratory fitness , lowest 20 percent of fintess has 4 times higher risk than high fitness group , how met infleucne mortality risk , fitness predicts risk of death regardless of disease , recommedations , some is better than noen , 150 mi thing .... , muscl , no sitting , physical activity versus exercise ... , dose relationship , more better , need to knwo minimum dose , understand the fitt principle , volume , pattern and progression, what timme is recommmend , what tyoe is recommmend , contionous and rhtyhmic , recommeneded volume (500 to 1000 met /week is recommended , pattern mutiple sessiosn longer than 10 minuted to accumulate desired volume n , frequency has a dose reposnse , linear adaptation ..smaller than 3 days per week can still have benefits threshold of frequency is 2 days per week optimal  5days : intensity 46 to 90 vo2 max , risk benefit in increasing intensity, even beow 46 , still see improvenments , time , dose response , thresold is 12 to 15 , optimal 30 , relative importncce  , intensity , volume , type , different pattersn of volume , no real difference , if intensity is smilar , compare hit and moderate intensity exercise , hito results in 1.5 ml higher than mc , for cardiac rehab , hit is not clinically meaningl=ful, its efficient , absolute is low 1/23000hr ( risk of getting cadiac arrest , butt still 5.6 times greater than mic ))  "
+     }
+     ,
+     {
+      "question":"how do we actually prescribe exercise ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"how to prescribe intensity , well usinf heart rate , but not reliable because doesnt take resting heart rate into consideration , using heart rate reserve method ([range of desired intensity ]x (max-rest)+ rsest) , by perceievd exertion , talk test (65 to 75), nby work rate , well for a case study , first step is to screen (known cardiac metabolic disease ?, currently 150 min per week ?, then do exercise assessment (objective is to find max vo2 then classfiy the patient , then consider FITT)), presribe intenisty by vo2 reservee, work out vo2 we want to work with , then work out speed using all those equatiosn    "
+     }
+     ,
+     {
+      "question":"how should we modify our exercise based on the 7 modifers of shit  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"for age , pretty much the same , ecept for adjunt , oler age needs balance , MENSTRUAL cycle doesnt affect vo2 , femla extract more oxygen buit less stroke volume adaptation , femal eprefer moderate so they ca socialize at the same time , ininitla fitness . how to progress , why is it important tho (know whicb fitt to progress , volume or intensyt ?, high frequency has no effec on adherenc e, high intensoity has effect on adherence , three phase of training : first phase innitial phase , )  "
+     }
 
 
 
