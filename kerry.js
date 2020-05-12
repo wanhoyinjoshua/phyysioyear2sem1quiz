@@ -2409,7 +2409,7 @@ var questionbank =
       ]
       ,
       "answer":"0",
-      "explanation":"pressure on  perineum fromm hand sitting on arm edge of chair , sitting on corner of table , sqeeuze pelvic floor  , activation of [psteropr rtbiail nerve , toe curling and valf activation , faciitation of frontal lobe ] "
+      "explanation":"75 percent is nocturnal polynurua ,defined as larger than 33 percent of urine output  , blood medicarion ,,,other causes ( venous retyurn ) solutio ( circulatory exercises 2 hrs befoe ebed , compression stocking s , "
      }
 
 
