@@ -1905,6 +1905,20 @@ var questionbank =
       "answer":"0",
       "explanation":"for age , pretty much the same , ecept for adjunt , oler age needs balance , MENSTRUAL cycle doesnt affect vo2 , femla extract more oxygen buit less stroke volume adaptation , femal eprefer moderate so they ca socialize at the same time , ininitla fitness . how to progress , why is it important tho (know whicb fitt to progress , volume or intensyt ?, high frequency has no effec on adherenc e, high intensoity has effect on adherence , three phase of training : first phase innitial phase , )  "
      }
+     ,
+     {
+      "question":"how should we modify our exercise based on the 7 modifers of shit  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"for age , pretty much the same , ecept for adjunt , oler age needs balance , MENSTRUAL cycle doesnt affect vo2 , femla extract more oxygen buit less stroke volume adaptation , femal eprefer moderate so they ca socialize at the same time , ininitla fitness . how to progress , why is it important tho (know whicb fitt to progress , volume or intensyt ?, high frequency has no effec on adherenc e, high intensoity has effect on adherence , three phase of training : first phase innitial phase , )  "
+     }
 
 
 
@@ -2188,7 +2202,8 @@ for(let i=0; i<choiceselection.length;i++){
 
        console.log(window.answer);
        
-       
+       let countmsk = document.getElementById("progress");
+        countmsk.innerHTML= questionbank.length;
   
       if(window.answer==choiceselection[i].id){
           console.log("correct answer")

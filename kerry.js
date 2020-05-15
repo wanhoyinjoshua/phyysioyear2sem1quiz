@@ -2411,6 +2411,90 @@ var questionbank =
       "answer":"0",
       "explanation":"75 percent is nocturnal polynurua ,defined as larger than 33 percent of urine output  , blood medicarion ,,,other causes ( venous retyurn ) solutio ( circulatory exercises 2 hrs befoe ebed , compression stocking s , "
      }
+     ,
+     {
+      "question":"one in 7 ppl are old , physical recommendations  for older adults , in the older age group , men are usually exceeding th eguideline more than women , but they have a lower life expectancy , men are exceding women , women isnt folloming the guideline , 65 to 85 sitting only half an hr differencd , walking is the most common , what are the barries for physical activity for older australainx  , what are the enablers of physical acticity ,   ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"physical health or fitnes , fun / enhjoyent , social reasons , how to prevent osteoprosis , think about sacropenia , what are the criteria for sacropenia , low muscle strength , low muscle quanity , low phsuicla performa nce , how to identifut the frialer adult , sreeningn , how is sacropenia is diagnosed , survey , sarc f quesronare , stength , assistance in walking , climb staris , falls , for muscle strngh , grip test , chair rise test , ophysical performance , gait spedd , timed and up 400 m walk test , cut off poitns for grip strnegth , and shits like taht , what is the prevalanxce of sacropenia , 10 to 40 , exercise presuupton , borg scale , intenisyt , 5 to 6 is moderate  7 to 8 vigorous , type linkes to adhenrec e,  resistance supplememts aerobic , increased balance trainifn=g , can maintain acticity , can actually releif pain , dfor oa , what about home based exercise , supervised has greater intensity  , dosesnt have to be one bout , can be accumalaton , even a ise dose can have mortality  ,22 reduction in mortality risk , importance to use borg , medium activity to be 500 to 999met . mi , high will be > 1000 met , best thig is adhernece . "
+     }
+     ,
+     {
+      "question":"falls and older adults , more than 1 /3 of ppl aged 65 or above fall each year , and 50 percent of them are recurrent , risk factors ? parkinson , incontinecne , co mobodity , deliirum ,cognitive impraoment , actue delirium and falls hv to regnize delrium exist  , fall ris screening , ontario modifir=ed stritify fall s=risk screen tool , fall rosk manahgement plan , physical test too , ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"physical health or fitnes , fun / enhjoyent , social reasons , how to prevent osteoprosis , think about sacropenia , what are the criteria for sacropenia , low muscle strength , low muscle quanity , low phsuicla performa nce , how to identifut the frialer adult , sreeningn , how is sacropenia is diagnosed , survey , sarc f quesronare , stength , assistance in walking , climb staris , falls , for muscle strngh , grip test , chair rise test , ophysical performance , gait spedd , timed and up 400 m walk test , cut off poitns for grip strnegth , and shits like taht , what is the prevalanxce of sacropenia , 10 to 40 , exercise presuupton , borg scale , intenisyt , 5 to 6 is moderate  7 to 8 vigorous , type linkes to adhenrec e,  resistance supplememts aerobic , increased balance trainifn=g , can maintain acticity , can actually releif pain , dfor oa , what about home based exercise , supervised has greater intensity  , dosesnt have to be one bout , can be accumalaton , even a ise dose can have mortality  ,22 reduction in mortality risk , importance to use borg , medium activity to be 500 to 999met . mi , high will be > 1000 met , best thig is adhernece . "
+     }
+     ,
+     {
+      "question":"explain the ontario s=fall risk tool ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"low risk under nine , whats the probem with oontario , wt happen if u say hes low risk , but tht doenst meantthye wont fall , hv flutuating leve of dlirium, , assume everyone is a faller until proven otherwise ,  "
+     }
+     ,
+     {
+      "question":"technology what is e health ?individualized care , examoeks ?myhealt record , dun wanna be judged , concersn of e health record , digital tools in health care , despite a lot of apps , minimum control regulatory , on alcohol is most effective ,  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"low risk under nine , whats the probem with oontario , wt happen if u say hes low risk , but tht doenst meantthye wont fall , hv flutuating leve of dlirium, , assume everyone is a faller until proven otherwise ,  "
+     }
+     ,
+     {
+      "question":"how do you assess an app ? objective domain, engagment , functonality  , aeshetics , information , plus a subjective wuality rating , high scoring of mars doesnr mean it is evidence based , wearabel device can change short term behaviour but long term is questionalbel ,  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"low risk under nine , whats the probem with oontario , wt happen if u say hes low risk , but tht doenst meantthye wont fall , hv flutuating leve of dlirium, , assume everyone is a faller until proven otherwise ,  "
+     }
+     ,
+     {
+      "question":"what is the promise and the pitfalls of e health , risk assessment in telehelath , know thir address, neighbpour , contingency plan , how can we use data to he;lp patine t, are there any service gaps ?m afl injury the centre cicle rule  ",
+      "choice":
+      [
+       "",
+       "",
+       "",
+       ""
+      ]
+      ,
+      "answer":"0",
+      "explanation":"promse i s low coset better assess , montoring emote and self , analytics , precision medicine , pitfalls , unregulated , false reassurance , privacy data security  "
+     }
 
 
 
@@ -2699,7 +2783,8 @@ for(let i=0; i<choiceselection.length;i++){
 
        console.log(window.answer);
        
-       
+       let countmsk = document.getElementById("progress");
+        countmsk.innerHTML= questionbank.length;
   
       if(window.answer==choiceselection[i].id){
           console.log("correct answer")

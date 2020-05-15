@@ -1105,6 +1105,128 @@ var questioncorrectwronglist =[];
     "answer":"0",
     "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
    }
+   ,
+   {
+    "question":"infromation from book , undersstand patients exoerience of the presenting disorder . osteoid osteoma , physical examiantion is aimed at confirming diagnosis , suggested by history , and identify the most appropriate treatment , to maximize patients comfot , all test are performed in one position , the order , general to specific , if irrtibale , no of test performed is limited  so the most importatn test perfoemed first , what should i measure  , those related to patients main concerns , and variables you exoect to change . relationship of size of spinal curve and pain isnt clearly established , except head pain , formal vs informal , for posterior , look for shoulder , scapular , psis , level of pelvis  , ikiac crest , gluteal folds , knee crease , calcaneal angle , oatella height an dposition , scars emans previous tramu , skin color circulation , inflammation , after observation , think which movement is affected first , all physiological active movements ar eusually examined, flexion extension , lateral flexion and rotation , ",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"asis to central patella , and central patella to tibial tubercle (women 17 , 14 male )genu valgum will increase it , femroal internal rotation will increase it , tibial external rotation will also increase it . "
+   }
+   ,
+   {
+    "question":"describe in words how to perform a active test , ",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"clear and appropriat explanations , first questioned about pain at rest , if pain is present before testing proceeds , pain must be carefully monitotred , , if  not irritbale , ask the patient to move as move as far as possibel , , if irrtibale , then move until the nitial osnet of pain , or until the first increase in pain .,all active movement of the spiine is performed standing except rotation  , ideally shouldnot be wearing shoes , for flexion , slide your hands doewn the front of your knee , rotatiion , cross arm across chest , observe active movemrmts , can also use sustained or reprtitve , how to perform straaight leg test , patient lies supuine , and completlty relaxed , physio supports the ankle posteriorly , and anterior aspect of knee , superior to the patella , the lift the ;eg into flexion , with neutral hip abduction  , the head unsupported , prone knee bend as well ,how to perform the slump test , seated comfotabtly on the end of th eplintht , active flexion of thoracic soine , by patient , head reamins erect ,, and sacrmum vrtical , overpressure to thoracic flexion , and reamin , active flex cervical , overpressurre apply and maintein , knee on asytomatic side is active ly extended , and dorsiflexion , then asked to extend cercial , and attmept further knee extension  , , then repeatt on the other side ,  "
+   }
+   ,
+   {
+    "question":"when would you tes for cns ",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"exagerrated tendon reflex , ataxia , clonus , babinskki, how do you test for it , you start at th eheel go up from lateral to medial  "
+   }
+   ,
+   {
+    "question":"LBP is the most common health condition to result in someone retiring from the workforce early. A key problem in the management of ALBP is the number of people who develop chronic LBP following an ALBP episode. We expect that early appropriate care may reduce such a transition.  ",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"exagerrated tendon reflex , ataxia , clonus , babinskki, how do you test for it , you start at th eheel go up from lateral to medial  "
+   }
+   ,
+   {
+    "question":"summarize the six steps in the model o fcare of low bac pain , ",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"assessment , triage , no imge in nponspeocific low back pain, personlaized evidence based health education, mamnagement with guideline , schduled foloow plan  "
+   }
+   ,
+   {
+    "question":"review of all previous bouts of pain is required , what education to provie for low backpain, advised to remian active and avoid bed rest , and to reassure them the favourable prognosis of albp , There is some evidence that exercise can delay recovery when commenced in the early acute phase",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"assessment , triage , no imge in nponspeocific low back pain, personlaized evidence based health education, mamnagement with guideline , schduled foloow plan  "
+   }
+   ,
+   {
+    "question":"During the initial stage of recovery, guiding the person to resume their normal physical activities should be the physical therapy focus without a separate structured exercise program., An exercise program may have value once the patient has recovered from the acute episode, as trials have shown that exercise programs begun at this point can halve the risk of recurrence",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"assessment , triage , no imge in nponspeocific low back pain, personlaized evidence based health education, mamnagement with guideline , schduled foloow plan  "
+   }
+   ,
+   {
+    "question":"ypically, six treatment sessions are delivered over a 12-week timeframe., paracem=tamol , then nasaid s.",
+    "choice":
+    [
+        "Biochemical substances stimulated by compression or tension forces",
+        "Microtearing of collagen fibers as the collagen matrix is disrupted",
+        "Early inflammatory markers that persist beyond stage 1",
+        "Central sensitisation occurring throughout stages 2 and 3"
+
+    ]
+    ,
+    "answer":"0",
+    "explanation":"assessment , triage , no imge in nponspeocific low back pain, personlaized evidence based health education, mamnagement with guideline , schduled foloow plan  "
+   }
+
+
 
 
    
@@ -1376,6 +1498,9 @@ for(let i=0; i<choiceselection.length;i++){
     choiceselection[i].addEventListener("click",()=>{
 
         console.log(window.answer);
+
+        let countmsk = document.getElementById("progress");
+        countmsk.innerHTML= questionbank.length;
         
         
    
